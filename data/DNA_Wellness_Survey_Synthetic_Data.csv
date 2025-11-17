@@ -1,0 +1,601 @@
+Age,Gender,Education Level,Income Level,Region,Exercise Frequency,Diet Type,Current Supplement Usage,Interest in Scientific Wellness,Health Priorities,Spending Range,Estimated Monthly Spending (AED),Interest in DNA-Based Wellness Concept
+56,Female,Master’s,<2000 AED,Abu Dhabi,5+ times/week,Vegetarian,Yes,Very Interested,"Anti-Aging, Skin Health",1000-2000 AED,1034.4,Interested
+46,Female,Bachelor’s,2000-5000 AED,Dubai,Never,Non-Vegetarian,No,Very Interested,"Fitness Performance, Weight Management",<200 AED,353.97,Highly Interested
+32,Female,Bachelor’s,>20000 AED,Ajman,5+ times/week,Vegan,Yes,Very Interested,"Mental Wellness, Weight Management, Fitness Performance",200-500 AED,457.68,Interested
+60,Female,Bachelor’s,5000-10000 AED,Ajman,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Weight Management, Immunity Boost, Energy Levels, Fitness Performance, Anti-Aging",500-1000 AED,672.38,Highly Interested
+25,Male,Master’s,2000-5000 AED,Dubai,5+ times/week,Vegetarian,Yes,Very Interested,"Anti-Aging, Weight Management, Skin Health",200-500 AED,317.09,Interested
+38,Male,Bachelor’s,<2000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Anti-Aging, Mental Wellness, Energy Levels, Fitness Performance",>2000 AED,2891.02,Interested
+56,Male,Bachelor’s,>20000 AED,Other,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Fitness Performance, Energy Levels, Weight Management",200-500 AED,444.08,Highly Interested
+36,Female,Bachelor’s,<2000 AED,Abu Dhabi,3-4 times/week,Pescatarian,Yes,Very Interested,"Weight Management, Energy Levels, Mental Wellness",1000-2000 AED,1714.95,Not Interested
+40,Male,Bachelor’s,10000-20000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,No,Neutral,"Immunity Boost, Anti-Aging, Mental Wellness, Skin Health, Energy Levels",500-1000 AED,624.4,Neutral
+28,Female,Master’s,10000-20000 AED,Ajman,3-4 times/week,Non-Vegetarian,Yes,Neutral,"Skin Health, Fitness Performance, Mental Wellness, Anti-Aging, Immunity Boost",1000-2000 AED,1910.22,Interested
+28,Male,Bachelor’s,2000-5000 AED,Dubai,Never,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Weight Management",200-500 AED,246.32,Interested
+41,Female,Master’s,5000-10000 AED,Abu Dhabi,Never,Non-Vegetarian,No,Somewhat Interested,"Anti-Aging, Immunity Boost",500-1000 AED,813.39,Highly Interested
+53,Female,Master’s,<2000 AED,Dubai,Never,Non-Vegetarian,No,Neutral,"Mental Wellness, Fitness Performance, Immunity Boost",1000-2000 AED,1028.8,Interested
+57,Female,Bachelor’s,2000-5000 AED,Sharjah,3-4 times/week,Non-Vegetarian,Yes,Not Interested,"Anti-Aging, Fitness Performance, Skin Health, Mental Wellness, Weight Management",500-1000 AED,821.86,Highly Interested
+41,Male,Bachelor’s,10000-20000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Anti-Aging, Mental Wellness",500-1000 AED,638.57,Highly Interested
+20,Non-binary,Master’s,10000-20000 AED,Sharjah,3-4 times/week,Pescatarian,Yes,Very Interested,"Mental Wellness, Immunity Boost",500-1000 AED,724.84,Not Interested
+39,Female,Bachelor’s,5000-10000 AED,Dubai,5+ times/week,Non-Vegetarian,No,Somewhat Interested,"Skin Health, Fitness Performance, Weight Management",1000-2000 AED,1345.26,Interested
+19,Male,Bachelor’s,5000-10000 AED,Dubai,1-2 times/week,Keto/Low Carb,Yes,Somewhat Interested,"Weight Management, Anti-Aging",500-1000 AED,586.38,Interested
+41,Female,Doctorate,2000-5000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Fitness Performance, Energy Levels, Weight Management, Anti-Aging, Immunity Boost",>2000 AED,2621.98,Highly Interested
+61,Female,High School,<2000 AED,Sharjah,3-4 times/week,Keto/Low Carb,Yes,Very Interested,"Energy Levels, Weight Management",200-500 AED,464.59,Interested
+47,Male,High School,<2000 AED,Abu Dhabi,5+ times/week,Pescatarian,Yes,Neutral,"Weight Management, Fitness Performance",500-1000 AED,979.54,Highly Interested
+55,Female,Bachelor’s,2000-5000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Not Interested,"Skin Health, Fitness Performance, Weight Management, Anti-Aging, Mental Wellness",1000-2000 AED,1192.35,Highly Interested
+19,Male,Doctorate,2000-5000 AED,Ajman,5+ times/week,Pescatarian,Yes,Very Interested,"Skin Health, Energy Levels",500-1000 AED,858.69,Highly Interested
+38,Male,High School,2000-5000 AED,Dubai,5+ times/week,Vegetarian,Yes,Very Interested,"Mental Wellness, Immunity Boost, Energy Levels, Weight Management",1000-2000 AED,1664.34,Interested
+50,Male,High School,2000-5000 AED,Other,Never,Keto/Low Carb,Yes,Very Interested,"Mental Wellness, Weight Management, Anti-Aging, Immunity Boost",>2000 AED,2343.38,Interested
+29,Male,High School,2000-5000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Neutral,"Anti-Aging, Immunity Boost",500-1000 AED,509.55,Highly Interested
+39,Male,High School,5000-10000 AED,Sharjah,3-4 times/week,Vegetarian,Yes,Somewhat Interested,"Anti-Aging, Mental Wellness",200-500 AED,406.94,Interested
+61,Female,High School,10000-20000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Energy Levels, Mental Wellness",<200 AED,478.2,Highly Interested
+42,Female,Bachelor’s,2000-5000 AED,Ras Al Khaimah,5+ times/week,Keto/Low Carb,Yes,Very Interested,"Skin Health, Mental Wellness, Fitness Performance, Energy Levels",1000-2000 AED,1632.12,Interested
+44,Female,Bachelor’s,>20000 AED,Abu Dhabi,1-2 times/week,Vegetarian,Yes,Somewhat Interested,"Skin Health, Immunity Boost, Weight Management, Energy Levels, Fitness Performance",1000-2000 AED,1435.29,Not Interested
+59,Female,Bachelor’s,10000-20000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Very Interested,"Skin Health, Weight Management, Fitness Performance, Mental Wellness, Anti-Aging",200-500 AED,357.55,Interested
+45,Female,Bachelor’s,2000-5000 AED,Dubai,1-2 times/week,Vegan,No,Somewhat Interested,"Weight Management, Fitness Performance, Skin Health, Energy Levels",200-500 AED,259.89,Neutral
+33,Female,High School,10000-20000 AED,Dubai,3-4 times/week,Pescatarian,No,Somewhat Interested,"Immunity Boost, Fitness Performance, Anti-Aging",<200 AED,400.22,Neutral
+32,Male,Bachelor’s,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Not Interested,"Fitness Performance, Energy Levels",1000-2000 AED,1746.42,Interested
+64,Male,Bachelor’s,5000-10000 AED,Ras Al Khaimah,3-4 times/week,Non-Vegetarian,Yes,Neutral,"Immunity Boost, Energy Levels, Skin Health, Anti-Aging",200-500 AED,243.66,Interested
+61,Female,Master’s,2000-5000 AED,Abu Dhabi,3-4 times/week,Vegetarian,Yes,Neutral,"Immunity Boost, Energy Levels, Mental Wellness, Anti-Aging, Fitness Performance",500-1000 AED,938.99,Neutral
+20,Male,High School,5000-10000 AED,Sharjah,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Mental Wellness, Fitness Performance",500-1000 AED,634.59,Highly Interested
+54,Female,Bachelor’s,2000-5000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,Yes,Somewhat Interested,"Weight Management, Skin Health",1000-2000 AED,1982.26,Highly Interested
+24,Male,Bachelor’s,5000-10000 AED,Sharjah,1-2 times/week,Keto/Low Carb,No,Somewhat Interested,"Immunity Boost, Fitness Performance, Energy Levels, Weight Management",500-1000 AED,691.45,Neutral
+38,Female,Master’s,5000-10000 AED,Dubai,3-4 times/week,Vegetarian,Yes,Neutral,"Fitness Performance, Weight Management, Mental Wellness",500-1000 AED,588.94,Interested
+26,Prefer not to say,Master’s,5000-10000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Mental Wellness, Immunity Boost, Weight Management, Fitness Performance",200-500 AED,305.52,Highly Interested
+56,Female,Bachelor’s,5000-10000 AED,Sharjah,5+ times/week,Vegetarian,No,Very Interested,"Weight Management, Immunity Boost, Energy Levels, Anti-Aging, Mental Wellness",500-1000 AED,720.09,Interested
+35,Male,Bachelor’s,10000-20000 AED,Other,3-4 times/week,Vegetarian,No,Very Interested,"Immunity Boost, Anti-Aging",1000-2000 AED,1069.31,Neutral
+21,Male,Doctorate,<2000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Immunity Boost, Weight Management, Skin Health, Fitness Performance, Mental Wellness",>2000 AED,2578.22,Interested
+42,Non-binary,High School,2000-5000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Skin Health, Mental Wellness, Weight Management, Energy Levels",200-500 AED,379.29,Interested
+31,Non-binary,High School,10000-20000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Anti-Aging, Energy Levels, Mental Wellness, Immunity Boost, Weight Management",<200 AED,395.57,Neutral
+26,Male,Bachelor’s,2000-5000 AED,Other,3-4 times/week,Keto/Low Carb,Yes,Very Interested,"Fitness Performance, Anti-Aging",<200 AED,111.67,Interested
+43,Female,High School,<2000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Mental Wellness, Fitness Performance, Energy Levels",500-1000 AED,770.62,Interested
+19,Male,Doctorate,2000-5000 AED,Abu Dhabi,1-2 times/week,Keto/Low Carb,Yes,Neutral,"Fitness Performance, Weight Management, Mental Wellness, Immunity Boost",1000-2000 AED,1052.91,Interested
+37,Male,Master’s,2000-5000 AED,Ajman,1-2 times/week,Pescatarian,Yes,Very Interested,"Energy Levels, Weight Management",<200 AED,380.46,Interested
+45,Male,Bachelor’s,>20000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Mental Wellness, Weight Management, Fitness Performance, Energy Levels",500-1000 AED,527.86,Interested
+64,Male,Bachelor’s,5000-10000 AED,Dubai,Never,Pescatarian,Yes,Somewhat Interested,"Fitness Performance, Skin Health, Weight Management, Immunity Boost",200-500 AED,473.52,Highly Interested
+24,Prefer not to say,Doctorate,>20000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,No,Neutral,"Fitness Performance, Mental Wellness, Weight Management",<200 AED,380.83,Interested
+61,Female,Master’s,5000-10000 AED,Ras Al Khaimah,1-2 times/week,Vegetarian,No,Very Interested,"Mental Wellness, Fitness Performance, Weight Management, Energy Levels",500-1000 AED,753.69,Not Interested
+25,Male,Bachelor’s,5000-10000 AED,Dubai,1-2 times/week,Vegan,Yes,Not Interested,"Mental Wellness, Fitness Performance, Energy Levels",200-500 AED,332.45,Highly Interested
+64,Female,Doctorate,2000-5000 AED,Abu Dhabi,5+ times/week,Vegetarian,No,Somewhat Interested,"Energy Levels, Immunity Boost, Mental Wellness, Fitness Performance",500-1000 AED,565.34,Highly Interested
+52,Non-binary,Doctorate,5000-10000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Not Interested,"Fitness Performance, Skin Health, Energy Levels",1000-2000 AED,1291.0,Interested
+31,Prefer not to say,Master’s,<2000 AED,Abu Dhabi,Never,Vegan,Yes,Neutral,"Skin Health, Energy Levels, Weight Management, Anti-Aging, Mental Wellness",500-1000 AED,934.48,Neutral
+34,Male,High School,10000-20000 AED,Abu Dhabi,5+ times/week,Vegetarian,No,Very Interested,"Immunity Boost, Skin Health, Weight Management, Anti-Aging",200-500 AED,471.34,Highly Interested
+53,Male,Bachelor’s,10000-20000 AED,Abu Dhabi,Never,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Mental Wellness",>2000 AED,2000.75,Highly Interested
+57,Male,Master’s,2000-5000 AED,Abu Dhabi,3-4 times/week,Keto/Low Carb,No,Very Interested,"Weight Management, Anti-Aging, Fitness Performance, Energy Levels, Immunity Boost",500-1000 AED,797.07,Highly Interested
+21,Male,High School,>20000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Fitness Performance, Anti-Aging",1000-2000 AED,1719.3,Interested
+19,Male,Master’s,10000-20000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Anti-Aging, Skin Health, Fitness Performance",<200 AED,347.5,Highly Interested
+23,Female,High School,5000-10000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Weight Management, Fitness Performance, Mental Wellness, Skin Health",<200 AED,132.67,Highly Interested
+59,Male,High School,<2000 AED,Ajman,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Anti-Aging, Skin Health, Weight Management",<200 AED,187.09,Interested
+21,Male,Bachelor’s,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Skin Health, Energy Levels, Anti-Aging, Fitness Performance, Immunity Boost",200-500 AED,275.1,Neutral
+46,Male,High School,5000-10000 AED,Ajman,Never,Keto/Low Carb,Yes,Very Interested,"Skin Health, Anti-Aging, Mental Wellness",500-1000 AED,915.86,Interested
+35,Male,Doctorate,2000-5000 AED,Ajman,1-2 times/week,Non-Vegetarian,No,Very Interested,"Weight Management, Anti-Aging, Fitness Performance, Skin Health, Energy Levels",>2000 AED,2463.2,Highly Interested
+43,Male,Master’s,<2000 AED,Dubai,5+ times/week,Non-Vegetarian,No,Very Interested,"Fitness Performance, Weight Management",500-1000 AED,743.41,Interested
+61,Female,Master’s,10000-20000 AED,Abu Dhabi,1-2 times/week,Pescatarian,Yes,Very Interested,"Mental Wellness, Anti-Aging, Weight Management",200-500 AED,480.47,Not Interested
+51,Male,Bachelor’s,<2000 AED,Abu Dhabi,3-4 times/week,Pescatarian,No,Somewhat Interested,"Immunity Boost, Energy Levels, Anti-Aging, Skin Health, Mental Wellness",500-1000 AED,818.54,Interested
+27,Male,High School,5000-10000 AED,Dubai,3-4 times/week,Vegetarian,No,Somewhat Interested,"Anti-Aging, Mental Wellness, Skin Health, Immunity Boost, Weight Management",200-500 AED,469.6,Not Interested
+53,Male,Bachelor’s,>20000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Neutral,"Anti-Aging, Mental Wellness, Fitness Performance",500-1000 AED,728.25,Neutral
+31,Female,Bachelor’s,10000-20000 AED,Dubai,Never,Non-Vegetarian,Yes,Somewhat Interested,"Mental Wellness, Weight Management, Fitness Performance",500-1000 AED,574.72,Highly Interested
+48,Male,Bachelor’s,2000-5000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Anti-Aging, Fitness Performance, Skin Health",1000-2000 AED,1929.94,Interested
+32,Male,Bachelor’s,10000-20000 AED,Ajman,3-4 times/week,Non-Vegetarian,No,Very Interested,"Energy Levels, Mental Wellness, Fitness Performance",>2000 AED,2458.71,Highly Interested
+25,Male,Bachelor’s,<2000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Neutral,"Fitness Performance, Weight Management",200-500 AED,254.49,Interested
+31,Non-binary,Bachelor’s,<2000 AED,Ajman,1-2 times/week,Keto/Low Carb,No,Neutral,"Weight Management, Anti-Aging",500-1000 AED,651.2,Highly Interested
+40,Male,Doctorate,5000-10000 AED,Abu Dhabi,Never,Vegan,Yes,Neutral,"Immunity Boost, Weight Management",>2000 AED,2050.8,Highly Interested
+57,Female,Master’s,2000-5000 AED,Ajman,3-4 times/week,Vegetarian,Yes,Somewhat Interested,"Anti-Aging, Skin Health, Mental Wellness",1000-2000 AED,1468.3,Neutral
+38,Non-binary,Bachelor’s,2000-5000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Immunity Boost, Fitness Performance",500-1000 AED,926.56,Highly Interested
+33,Male,Bachelor’s,5000-10000 AED,Dubai,Never,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Energy Levels",>2000 AED,2933.58,Neutral
+62,Female,Master’s,2000-5000 AED,Sharjah,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Skin Health, Fitness Performance, Weight Management, Anti-Aging, Mental Wellness",<200 AED,473.04,Highly Interested
+35,Female,High School,2000-5000 AED,Dubai,1-2 times/week,Non-Vegetarian,No,Neutral,"Weight Management, Anti-Aging, Skin Health",>2000 AED,2125.23,Highly Interested
+64,Male,Master’s,5000-10000 AED,Abu Dhabi,3-4 times/week,Pescatarian,Yes,Somewhat Interested,"Fitness Performance, Anti-Aging",<200 AED,252.82,Neutral
+41,Male,Master’s,10000-20000 AED,Ras Al Khaimah,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Immunity Boost, Anti-Aging",500-1000 AED,514.11,Interested
+43,Female,Bachelor’s,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Very Interested,"Energy Levels, Anti-Aging, Fitness Performance, Immunity Boost",1000-2000 AED,1855.17,Interested
+42,Female,Bachelor’s,2000-5000 AED,Dubai,3-4 times/week,Vegan,Yes,Neutral,"Weight Management, Mental Wellness, Energy Levels, Fitness Performance",200-500 AED,307.63,Highly Interested
+62,Prefer not to say,Bachelor’s,5000-10000 AED,Sharjah,3-4 times/week,Non-Vegetarian,No,Very Interested,"Skin Health, Weight Management, Immunity Boost, Anti-Aging",500-1000 AED,815.56,Interested
+58,Male,Bachelor’s,2000-5000 AED,Ajman,5+ times/week,Vegetarian,No,Very Interested,"Weight Management, Mental Wellness, Fitness Performance, Skin Health",200-500 AED,414.47,Interested
+46,Female,High School,<2000 AED,Sharjah,5+ times/week,Non-Vegetarian,No,Very Interested,"Fitness Performance, Skin Health",>2000 AED,2429.84,Interested
+32,Male,Master’s,10000-20000 AED,Dubai,1-2 times/week,Vegetarian,No,Somewhat Interested,"Skin Health, Weight Management, Mental Wellness, Immunity Boost, Anti-Aging",1000-2000 AED,1306.44,Interested
+62,Female,High School,2000-5000 AED,Sharjah,1-2 times/week,Keto/Low Carb,No,Somewhat Interested,"Mental Wellness, Energy Levels, Skin Health, Weight Management",1000-2000 AED,1962.21,Not Interested
+18,Female,Bachelor’s,2000-5000 AED,Dubai,1-2 times/week,Vegetarian,Yes,Neutral,"Energy Levels, Fitness Performance",500-1000 AED,982.24,Interested
+42,Male,Doctorate,5000-10000 AED,Sharjah,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Mental Wellness, Immunity Boost, Weight Management, Skin Health",1000-2000 AED,1289.44,Neutral
+24,Male,Master’s,5000-10000 AED,Other,5+ times/week,Non-Vegetarian,No,Somewhat Interested,"Fitness Performance, Anti-Aging",500-1000 AED,739.81,Interested
+26,Male,Bachelor’s,5000-10000 AED,Sharjah,3-4 times/week,Keto/Low Carb,Yes,Somewhat Interested,"Mental Wellness, Weight Management, Immunity Boost, Anti-Aging, Fitness Performance",500-1000 AED,986.42,Interested
+41,Male,Bachelor’s,2000-5000 AED,Ajman,1-2 times/week,Vegetarian,Yes,Very Interested,"Fitness Performance, Skin Health, Energy Levels",1000-2000 AED,1004.87,Highly Interested
+18,Male,High School,2000-5000 AED,Dubai,3-4 times/week,Vegetarian,Yes,Neutral,"Mental Wellness, Fitness Performance, Energy Levels, Immunity Boost",500-1000 AED,706.34,Highly Interested
+61,Female,Master’s,2000-5000 AED,Sharjah,3-4 times/week,Vegetarian,No,Somewhat Interested,"Skin Health, Mental Wellness, Energy Levels, Fitness Performance, Immunity Boost",<200 AED,140.18,Neutral
+25,Female,High School,2000-5000 AED,Ajman,1-2 times/week,Vegetarian,Yes,Somewhat Interested,"Mental Wellness, Anti-Aging, Weight Management, Skin Health, Immunity Boost",<200 AED,303.66,Highly Interested
+41,Female,Bachelor’s,5000-10000 AED,Dubai,1-2 times/week,Non-Vegetarian,No,Neutral,"Anti-Aging, Skin Health, Weight Management, Mental Wellness",200-500 AED,207.4,Highly Interested
+28,Non-binary,Doctorate,10000-20000 AED,Ajman,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Mental Wellness, Immunity Boost",1000-2000 AED,1406.9,Highly Interested
+34,Female,High School,10000-20000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Weight Management, Skin Health, Fitness Performance",500-1000 AED,610.35,Highly Interested
+25,Female,Master’s,10000-20000 AED,Sharjah,Never,Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Skin Health, Fitness Performance, Weight Management",1000-2000 AED,1533.31,Neutral
+52,Female,Doctorate,5000-10000 AED,Ajman,1-2 times/week,Pescatarian,Yes,Very Interested,"Weight Management, Energy Levels, Fitness Performance, Skin Health",500-1000 AED,998.0,Neutral
+52,Male,High School,5000-10000 AED,Sharjah,3-4 times/week,Non-Vegetarian,No,Very Interested,"Skin Health, Energy Levels, Weight Management, Immunity Boost, Anti-Aging",200-500 AED,440.16,Interested
+50,Male,Master’s,2000-5000 AED,Dubai,1-2 times/week,Non-Vegetarian,No,Very Interested,"Immunity Boost, Fitness Performance, Anti-Aging, Energy Levels, Skin Health",200-500 AED,453.69,Highly Interested
+22,Male,Bachelor’s,5000-10000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Weight Management, Mental Wellness, Skin Health",1000-2000 AED,1635.26,Interested
+59,Male,Doctorate,5000-10000 AED,Abu Dhabi,3-4 times/week,Keto/Low Carb,Yes,Somewhat Interested,"Anti-Aging, Energy Levels, Mental Wellness, Weight Management",500-1000 AED,520.78,Interested
+56,Male,Bachelor’s,2000-5000 AED,Ras Al Khaimah,1-2 times/week,Vegetarian,Yes,Very Interested,"Fitness Performance, Weight Management, Skin Health, Mental Wellness, Anti-Aging",>2000 AED,2206.8,Not Interested
+58,Male,Master’s,2000-5000 AED,Abu Dhabi,5+ times/week,Pescatarian,No,Somewhat Interested,"Energy Levels, Immunity Boost, Anti-Aging, Mental Wellness",500-1000 AED,962.53,Interested
+45,Female,Bachelor’s,>20000 AED,Dubai,3-4 times/week,Vegan,No,Neutral,"Weight Management, Anti-Aging, Fitness Performance",500-1000 AED,683.06,Highly Interested
+24,Female,Master’s,2000-5000 AED,Sharjah,1-2 times/week,Vegetarian,Yes,Very Interested,"Skin Health, Anti-Aging, Mental Wellness, Fitness Performance, Immunity Boost",500-1000 AED,551.82,Interested
+26,Male,Master’s,<2000 AED,Abu Dhabi,3-4 times/week,Keto/Low Carb,Yes,Very Interested,"Fitness Performance, Weight Management, Anti-Aging, Energy Levels, Immunity Boost",>2000 AED,2702.41,Not Interested
+25,Male,Bachelor’s,5000-10000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Weight Management, Anti-Aging, Skin Health",1000-2000 AED,1299.46,Interested
+29,Male,Master’s,10000-20000 AED,Abu Dhabi,3-4 times/week,Vegetarian,No,Very Interested,"Energy Levels, Anti-Aging, Fitness Performance, Mental Wellness, Immunity Boost",<200 AED,207.54,Interested
+51,Female,High School,5000-10000 AED,Ajman,1-2 times/week,Pescatarian,Yes,Somewhat Interested,"Mental Wellness, Fitness Performance",500-1000 AED,998.99,Highly Interested
+50,Female,High School,5000-10000 AED,Abu Dhabi,5+ times/week,Vegan,Yes,Very Interested,"Energy Levels, Anti-Aging, Immunity Boost, Mental Wellness",500-1000 AED,929.07,Interested
+40,Female,High School,2000-5000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Fitness Performance, Immunity Boost",1000-2000 AED,1407.94,Neutral
+41,Male,Bachelor’s,5000-10000 AED,Dubai,1-2 times/week,Vegetarian,No,Somewhat Interested,"Energy Levels, Anti-Aging, Skin Health",200-500 AED,494.08,Highly Interested
+54,Female,High School,2000-5000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Fitness Performance, Immunity Boost, Skin Health, Energy Levels, Mental Wellness",1000-2000 AED,1650.11,Interested
+52,Prefer not to say,Doctorate,10000-20000 AED,Dubai,Never,Vegan,Yes,Neutral,"Weight Management, Energy Levels, Fitness Performance, Anti-Aging",>2000 AED,2742.02,Highly Interested
+61,Male,High School,5000-10000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Neutral,"Immunity Boost, Weight Management, Skin Health, Fitness Performance",200-500 AED,209.45,Highly Interested
+57,Female,Master’s,2000-5000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Energy Levels, Immunity Boost, Weight Management",1000-2000 AED,1121.61,Highly Interested
+39,Female,High School,<2000 AED,Sharjah,1-2 times/week,Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Anti-Aging, Energy Levels",<200 AED,353.23,Highly Interested
+44,Female,Master’s,<2000 AED,Abu Dhabi,5+ times/week,Vegetarian,No,Very Interested,"Fitness Performance, Energy Levels, Skin Health, Anti-Aging, Immunity Boost",<200 AED,459.61,Interested
+52,Male,Doctorate,2000-5000 AED,Ajman,1-2 times/week,Pescatarian,No,Somewhat Interested,"Energy Levels, Anti-Aging, Mental Wellness",200-500 AED,387.12,Highly Interested
+18,Female,Bachelor’s,2000-5000 AED,Other,Never,Non-Vegetarian,No,Very Interested,"Fitness Performance, Weight Management",<200 AED,153.61,Highly Interested
+52,Female,Master’s,5000-10000 AED,Ajman,Never,Keto/Low Carb,No,Neutral,"Weight Management, Immunity Boost",1000-2000 AED,1115.76,Neutral
+54,Female,High School,5000-10000 AED,Sharjah,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Skin Health, Weight Management, Energy Levels, Anti-Aging",<200 AED,437.67,Interested
+64,Non-binary,Master’s,2000-5000 AED,Abu Dhabi,1-2 times/week,Vegan,No,Somewhat Interested,"Mental Wellness, Energy Levels, Fitness Performance, Weight Management",200-500 AED,241.79,Interested
+31,Female,High School,<2000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Mental Wellness",200-500 AED,356.07,Interested
+20,Prefer not to say,Doctorate,<2000 AED,Dubai,1-2 times/week,Non-Vegetarian,No,Somewhat Interested,"Weight Management, Fitness Performance",200-500 AED,211.13,Interested
+18,Female,High School,10000-20000 AED,Dubai,1-2 times/week,Vegetarian,No,Neutral,"Fitness Performance, Skin Health, Energy Levels, Immunity Boost, Weight Management",<200 AED,132.27,Highly Interested
+22,Female,Bachelor’s,2000-5000 AED,Ras Al Khaimah,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Mental Wellness",500-1000 AED,836.17,Neutral
+43,Female,Master’s,5000-10000 AED,Ajman,3-4 times/week,Non-Vegetarian,Yes,Neutral,"Fitness Performance, Weight Management, Anti-Aging, Energy Levels",200-500 AED,406.75,Highly Interested
+31,Male,Bachelor’s,10000-20000 AED,Dubai,3-4 times/week,Keto/Low Carb,Yes,Very Interested,"Skin Health, Fitness Performance, Anti-Aging",1000-2000 AED,1341.47,Interested
+56,Female,High School,5000-10000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Skin Health, Fitness Performance, Weight Management",1000-2000 AED,1215.61,Highly Interested
+44,Female,High School,10000-20000 AED,Ajman,1-2 times/week,Vegetarian,Yes,Neutral,"Skin Health, Weight Management, Immunity Boost",<200 AED,425.48,Interested
+26,Female,Bachelor’s,2000-5000 AED,Dubai,3-4 times/week,Vegetarian,No,Very Interested,"Immunity Boost, Mental Wellness",1000-2000 AED,1217.1,Interested
+32,Non-binary,Bachelor’s,>20000 AED,Dubai,3-4 times/week,Vegetarian,No,Not Interested,"Immunity Boost, Skin Health, Fitness Performance, Anti-Aging",<200 AED,316.81,Interested
+32,Male,High School,<2000 AED,Ajman,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Fitness Performance, Anti-Aging, Mental Wellness",200-500 AED,490.46,Highly Interested
+43,Female,Bachelor’s,<2000 AED,Abu Dhabi,5+ times/week,Vegan,Yes,Very Interested,"Energy Levels, Mental Wellness, Weight Management, Fitness Performance, Anti-Aging",<200 AED,159.14,Interested
+59,Female,High School,5000-10000 AED,Dubai,Never,Keto/Low Carb,Yes,Neutral,"Energy Levels, Skin Health, Immunity Boost, Anti-Aging",200-500 AED,482.26,Not Interested
+30,Female,Master’s,>20000 AED,Abu Dhabi,3-4 times/week,Vegetarian,No,Very Interested,"Mental Wellness, Immunity Boost, Anti-Aging, Skin Health",500-1000 AED,591.45,Neutral
+49,Female,High School,10000-20000 AED,Ajman,1-2 times/week,Non-Vegetarian,Yes,Not Interested,"Skin Health, Mental Wellness",1000-2000 AED,1567.44,Highly Interested
+56,Female,Bachelor’s,<2000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Not Interested,"Mental Wellness, Anti-Aging, Skin Health",200-500 AED,313.1,Highly Interested
+49,Female,High School,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Anti-Aging, Weight Management, Mental Wellness",1000-2000 AED,1964.93,Neutral
+21,Male,Bachelor’s,>20000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Somewhat Interested,"Anti-Aging, Energy Levels, Skin Health, Mental Wellness, Fitness Performance",200-500 AED,282.06,Interested
+47,Male,Master’s,2000-5000 AED,Abu Dhabi,Never,Non-Vegetarian,Yes,Very Interested,"Anti-Aging, Skin Health, Immunity Boost, Mental Wellness, Weight Management",1000-2000 AED,1399.66,Interested
+54,Female,Bachelor’s,10000-20000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,No,Very Interested,"Immunity Boost, Energy Levels",200-500 AED,494.86,Neutral
+40,Male,High School,10000-20000 AED,Sharjah,3-4 times/week,Vegetarian,Yes,Very Interested,"Skin Health, Fitness Performance, Anti-Aging",200-500 AED,360.94,Neutral
+56,Male,Master’s,5000-10000 AED,Dubai,3-4 times/week,Vegan,No,Very Interested,"Skin Health, Mental Wellness, Weight Management, Fitness Performance, Immunity Boost",200-500 AED,350.79,Interested
+62,Female,Master’s,2000-5000 AED,Ajman,3-4 times/week,Vegetarian,Yes,Very Interested,"Energy Levels, Immunity Boost, Skin Health, Anti-Aging, Fitness Performance",200-500 AED,277.33,Interested
+32,Male,High School,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Very Interested,"Fitness Performance, Immunity Boost, Weight Management",500-1000 AED,850.68,Highly Interested
+60,Female,Master’s,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Not Interested,"Energy Levels, Mental Wellness, Skin Health",1000-2000 AED,1014.37,Interested
+46,Female,Doctorate,10000-20000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Neutral,"Skin Health, Immunity Boost, Weight Management, Fitness Performance, Energy Levels",<200 AED,119.81,Highly Interested
+53,Female,High School,5000-10000 AED,Dubai,3-4 times/week,Keto/Low Carb,Yes,Somewhat Interested,"Skin Health, Mental Wellness",1000-2000 AED,1599.36,Highly Interested
+30,Male,Master’s,10000-20000 AED,Abu Dhabi,1-2 times/week,Pescatarian,Yes,Somewhat Interested,"Energy Levels, Weight Management",500-1000 AED,670.84,Highly Interested
+49,Female,Master’s,<2000 AED,Abu Dhabi,5+ times/week,Pescatarian,No,Neutral,"Immunity Boost, Weight Management, Anti-Aging, Mental Wellness, Fitness Performance",1000-2000 AED,1953.32,Highly Interested
+24,Male,Bachelor’s,>20000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Weight Management, Fitness Performance, Mental Wellness",200-500 AED,470.96,Interested
+39,Female,High School,5000-10000 AED,Abu Dhabi,5+ times/week,Vegan,No,Somewhat Interested,"Anti-Aging, Skin Health, Mental Wellness",500-1000 AED,856.85,Interested
+45,Male,High School,<2000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Not Interested,"Anti-Aging, Mental Wellness, Immunity Boost",>2000 AED,2818.15,Interested
+19,Female,Master’s,<2000 AED,Sharjah,5+ times/week,Pescatarian,No,Very Interested,"Energy Levels, Immunity Boost, Anti-Aging, Weight Management",500-1000 AED,833.67,Highly Interested
+59,Female,Doctorate,10000-20000 AED,Ras Al Khaimah,5+ times/week,Non-Vegetarian,No,Somewhat Interested,"Energy Levels, Skin Health",500-1000 AED,562.79,Neutral
+62,Prefer not to say,Master’s,5000-10000 AED,Dubai,3-4 times/week,Keto/Low Carb,No,Neutral,"Mental Wellness, Weight Management",200-500 AED,429.66,Highly Interested
+23,Female,Bachelor’s,10000-20000 AED,Abu Dhabi,3-4 times/week,Keto/Low Carb,Yes,Neutral,"Fitness Performance, Energy Levels, Mental Wellness, Anti-Aging, Skin Health",200-500 AED,263.06,Neutral
+45,Male,Bachelor’s,<2000 AED,Dubai,1-2 times/week,Vegan,Yes,Somewhat Interested,"Energy Levels, Fitness Performance",500-1000 AED,661.72,Neutral
+45,Female,Bachelor’s,<2000 AED,Dubai,5+ times/week,Non-Vegetarian,No,Very Interested,"Immunity Boost, Anti-Aging, Skin Health, Mental Wellness",1000-2000 AED,1819.23,Interested
+61,Male,Bachelor’s,5000-10000 AED,Dubai,3-4 times/week,Vegetarian,Yes,Very Interested,"Anti-Aging, Energy Levels, Fitness Performance, Weight Management",200-500 AED,360.96,Interested
+61,Male,High School,2000-5000 AED,Sharjah,Never,Pescatarian,Yes,Very Interested,"Energy Levels, Mental Wellness, Anti-Aging",500-1000 AED,929.97,Neutral
+37,Male,Master’s,5000-10000 AED,Abu Dhabi,1-2 times/week,Vegetarian,Yes,Somewhat Interested,"Fitness Performance, Mental Wellness",500-1000 AED,606.52,Highly Interested
+47,Female,Bachelor’s,>20000 AED,Dubai,5+ times/week,Pescatarian,Yes,Very Interested,"Fitness Performance, Skin Health, Mental Wellness",500-1000 AED,803.89,Interested
+28,Female,Master’s,>20000 AED,Ajman,5+ times/week,Non-Vegetarian,Yes,Neutral,"Weight Management, Skin Health",500-1000 AED,541.9,Interested
+45,Male,Bachelor’s,>20000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Skin Health, Mental Wellness, Weight Management",1000-2000 AED,1643.06,Highly Interested
+42,Female,High School,10000-20000 AED,Ajman,3-4 times/week,Keto/Low Carb,Yes,Very Interested,"Mental Wellness, Fitness Performance, Energy Levels",200-500 AED,428.76,Neutral
+56,Male,High School,2000-5000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,No,Somewhat Interested,"Energy Levels, Mental Wellness, Fitness Performance, Skin Health",1000-2000 AED,1584.93,Neutral
+50,Male,Bachelor’s,5000-10000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,No,Somewhat Interested,"Energy Levels, Skin Health, Mental Wellness",200-500 AED,279.87,Neutral
+18,Male,Doctorate,5000-10000 AED,Dubai,1-2 times/week,Non-Vegetarian,No,Very Interested,"Anti-Aging, Energy Levels",200-500 AED,209.4,Highly Interested
+44,Male,High School,10000-20000 AED,Dubai,Never,Non-Vegetarian,No,Very Interested,"Mental Wellness, Skin Health, Immunity Boost, Fitness Performance, Weight Management",200-500 AED,235.83,Highly Interested
+30,Female,Master’s,<2000 AED,Other,1-2 times/week,Vegan,Yes,Somewhat Interested,"Energy Levels, Fitness Performance, Immunity Boost, Anti-Aging",200-500 AED,386.69,Interested
+58,Female,Bachelor’s,5000-10000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Weight Management, Skin Health, Fitness Performance, Anti-Aging",200-500 AED,480.33,Highly Interested
+20,Female,Master’s,<2000 AED,Other,3-4 times/week,Keto/Low Carb,Yes,Very Interested,"Immunity Boost, Anti-Aging, Energy Levels, Mental Wellness",200-500 AED,261.96,Interested
+56,Male,Bachelor’s,5000-10000 AED,Abu Dhabi,5+ times/week,Pescatarian,Yes,Neutral,"Mental Wellness, Fitness Performance, Immunity Boost",1000-2000 AED,1735.03,Interested
+23,Male,Master’s,10000-20000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Immunity Boost, Mental Wellness, Weight Management",200-500 AED,459.94,Interested
+25,Male,Master’s,10000-20000 AED,Dubai,5+ times/week,Vegan,Yes,Very Interested,"Weight Management, Skin Health, Mental Wellness",1000-2000 AED,1520.88,Interested
+44,Female,High School,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Neutral,"Weight Management, Fitness Performance, Immunity Boost, Mental Wellness, Energy Levels",<200 AED,367.71,Interested
+26,Male,High School,>20000 AED,Ras Al Khaimah,1-2 times/week,Non-Vegetarian,Yes,Not Interested,"Skin Health, Mental Wellness",>2000 AED,2815.02,Highly Interested
+54,Female,Master’s,5000-10000 AED,Abu Dhabi,1-2 times/week,Keto/Low Carb,Yes,Somewhat Interested,"Immunity Boost, Energy Levels, Weight Management",1000-2000 AED,1260.68,Highly Interested
+50,Prefer not to say,Doctorate,<2000 AED,Dubai,Never,Vegetarian,No,Somewhat Interested,"Energy Levels, Weight Management",<200 AED,218.76,Interested
+59,Female,High School,2000-5000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Neutral,"Immunity Boost, Energy Levels",1000-2000 AED,1000.63,Interested
+61,Non-binary,Master’s,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Not Interested,"Weight Management, Energy Levels, Skin Health",500-1000 AED,981.55,Neutral
+41,Male,Doctorate,<2000 AED,Abu Dhabi,Never,Non-Vegetarian,Yes,Somewhat Interested,"Fitness Performance, Energy Levels, Skin Health, Weight Management, Mental Wellness",1000-2000 AED,1917.54,Neutral
+32,Female,Master’s,>20000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Mental Wellness, Skin Health",500-1000 AED,882.28,Not Interested
+49,Female,Doctorate,5000-10000 AED,Ajman,1-2 times/week,Vegan,No,Somewhat Interested,"Skin Health, Fitness Performance, Weight Management, Mental Wellness, Anti-Aging",500-1000 AED,539.54,Highly Interested
+49,Female,Master’s,10000-20000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Somewhat Interested,"Energy Levels, Anti-Aging",1000-2000 AED,1447.5,Highly Interested
+41,Male,Bachelor’s,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Very Interested,"Anti-Aging, Fitness Performance, Weight Management",500-1000 AED,550.95,Highly Interested
+58,Male,Bachelor’s,<2000 AED,Abu Dhabi,3-4 times/week,Vegetarian,No,Very Interested,"Weight Management, Skin Health, Immunity Boost, Anti-Aging",<200 AED,106.37,Interested
+29,Male,Bachelor’s,5000-10000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,No,Neutral,"Skin Health, Immunity Boost, Weight Management, Mental Wellness",1000-2000 AED,1616.18,Interested
+56,Female,Master’s,<2000 AED,Other,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Anti-Aging, Fitness Performance, Mental Wellness, Immunity Boost, Weight Management",500-1000 AED,980.41,Neutral
+19,Female,Master’s,5000-10000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Anti-Aging, Fitness Performance, Mental Wellness, Energy Levels",500-1000 AED,951.43,Interested
+20,Female,High School,>20000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Weight Management, Energy Levels",<200 AED,378.7,Neutral
+54,Male,Master’s,5000-10000 AED,Abu Dhabi,5+ times/week,Vegetarian,Yes,Very Interested,"Skin Health, Weight Management, Fitness Performance",500-1000 AED,548.32,Neutral
+34,Female,Master’s,5000-10000 AED,Dubai,1-2 times/week,Non-Vegetarian,No,Very Interested,"Immunity Boost, Weight Management, Anti-Aging, Mental Wellness, Energy Levels",>2000 AED,2274.16,Highly Interested
+19,Male,Bachelor’s,2000-5000 AED,Dubai,5+ times/week,Non-Vegetarian,No,Somewhat Interested,"Fitness Performance, Weight Management, Anti-Aging, Skin Health, Mental Wellness",200-500 AED,296.02,Interested
+19,Male,Bachelor’s,<2000 AED,Other,5+ times/week,Keto/Low Carb,No,Very Interested,"Fitness Performance, Energy Levels",500-1000 AED,881.58,Interested
+45,Male,Bachelor’s,<2000 AED,Sharjah,Never,Keto/Low Carb,No,Very Interested,"Fitness Performance, Anti-Aging, Weight Management, Mental Wellness, Energy Levels",500-1000 AED,901.12,Highly Interested
+40,Female,High School,5000-10000 AED,Other,3-4 times/week,Non-Vegetarian,Yes,Not Interested,"Anti-Aging, Energy Levels, Weight Management, Mental Wellness, Skin Health",1000-2000 AED,1385.11,Interested
+54,Male,High School,<2000 AED,Abu Dhabi,5+ times/week,Keto/Low Carb,No,Very Interested,"Anti-Aging, Weight Management, Fitness Performance",500-1000 AED,708.94,Interested
+49,Female,High School,2000-5000 AED,Abu Dhabi,1-2 times/week,Vegan,Yes,Very Interested,"Weight Management, Fitness Performance, Mental Wellness, Anti-Aging",200-500 AED,213.35,Highly Interested
+50,Female,High School,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Not Interested,"Weight Management, Mental Wellness, Skin Health, Energy Levels, Immunity Boost",>2000 AED,2289.14,Interested
+18,Male,Bachelor’s,2000-5000 AED,Dubai,5+ times/week,Vegetarian,No,Somewhat Interested,"Fitness Performance, Energy Levels, Mental Wellness",500-1000 AED,725.64,Interested
+36,Female,Bachelor’s,2000-5000 AED,Ajman,3-4 times/week,Vegan,Yes,Somewhat Interested,"Anti-Aging, Mental Wellness, Immunity Boost",200-500 AED,235.09,Highly Interested
+19,Male,High School,2000-5000 AED,Dubai,1-2 times/week,Vegan,Yes,Neutral,"Mental Wellness, Skin Health, Energy Levels, Fitness Performance, Weight Management",<200 AED,281.31,Interested
+61,Male,Master’s,>20000 AED,Ajman,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Mental Wellness, Fitness Performance, Weight Management, Immunity Boost, Anti-Aging",500-1000 AED,926.59,Highly Interested
+43,Female,Bachelor’s,5000-10000 AED,Sharjah,1-2 times/week,Vegan,No,Somewhat Interested,"Mental Wellness, Energy Levels, Skin Health, Weight Management, Immunity Boost",200-500 AED,374.4,Interested
+49,Male,Doctorate,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Energy Levels, Mental Wellness, Weight Management, Anti-Aging, Skin Health",200-500 AED,223.68,Highly Interested
+23,Female,Doctorate,<2000 AED,Abu Dhabi,Never,Vegan,Yes,Neutral,"Energy Levels, Mental Wellness, Fitness Performance, Immunity Boost",1000-2000 AED,1191.67,Neutral
+49,Female,High School,>20000 AED,Sharjah,3-4 times/week,Keto/Low Carb,Yes,Somewhat Interested,"Fitness Performance, Weight Management, Mental Wellness, Energy Levels",<200 AED,289.82,Interested
+21,Female,Bachelor’s,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Weight Management, Skin Health, Mental Wellness, Immunity Boost, Energy Levels",1000-2000 AED,1361.49,Highly Interested
+28,Female,High School,2000-5000 AED,Ajman,3-4 times/week,Vegan,Yes,Somewhat Interested,"Weight Management, Immunity Boost",200-500 AED,307.62,Interested
+34,Female,Bachelor’s,10000-20000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Skin Health, Anti-Aging, Fitness Performance, Immunity Boost, Mental Wellness",1000-2000 AED,1529.27,Interested
+55,Female,Bachelor’s,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Anti-Aging, Weight Management",1000-2000 AED,1584.4,Interested
+41,Female,High School,5000-10000 AED,Abu Dhabi,3-4 times/week,Vegan,Yes,Somewhat Interested,"Energy Levels, Mental Wellness",<200 AED,418.74,Interested
+22,Male,Bachelor’s,5000-10000 AED,Other,1-2 times/week,Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Weight Management, Fitness Performance, Anti-Aging",500-1000 AED,670.48,Interested
+51,Male,High School,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Mental Wellness, Anti-Aging, Weight Management, Fitness Performance",200-500 AED,441.64,Highly Interested
+23,Female,High School,>20000 AED,Ajman,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Fitness Performance, Anti-Aging, Weight Management, Immunity Boost, Energy Levels",1000-2000 AED,1338.61,Highly Interested
+39,Female,Master’s,10000-20000 AED,Dubai,5+ times/week,Non-Vegetarian,No,Somewhat Interested,"Fitness Performance, Mental Wellness, Immunity Boost, Weight Management",1000-2000 AED,1055.43,Interested
+28,Male,Bachelor’s,5000-10000 AED,Sharjah,Never,Non-Vegetarian,No,Neutral,"Mental Wellness, Skin Health",500-1000 AED,777.09,Interested
+33,Female,Bachelor’s,2000-5000 AED,Sharjah,3-4 times/week,Vegan,Yes,Somewhat Interested,"Anti-Aging, Weight Management, Mental Wellness",500-1000 AED,793.95,Highly Interested
+50,Male,Bachelor’s,<2000 AED,Dubai,3-4 times/week,Vegetarian,No,Neutral,"Immunity Boost, Fitness Performance, Anti-Aging, Energy Levels, Weight Management",200-500 AED,480.36,Neutral
+26,Non-binary,Doctorate,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Neutral,"Mental Wellness, Fitness Performance, Anti-Aging",1000-2000 AED,1726.06,Highly Interested
+23,Male,High School,10000-20000 AED,Sharjah,Never,Non-Vegetarian,Yes,Somewhat Interested,"Fitness Performance, Weight Management",500-1000 AED,958.89,Neutral
+33,Male,Bachelor’s,2000-5000 AED,Abu Dhabi,3-4 times/week,Pescatarian,Yes,Somewhat Interested,"Skin Health, Energy Levels, Anti-Aging, Mental Wellness",200-500 AED,472.5,Highly Interested
+46,Male,Master’s,5000-10000 AED,Sharjah,3-4 times/week,Keto/Low Carb,Yes,Neutral,"Weight Management, Mental Wellness, Anti-Aging",500-1000 AED,802.29,Highly Interested
+20,Female,Bachelor’s,10000-20000 AED,Dubai,3-4 times/week,Keto/Low Carb,Yes,Somewhat Interested,"Anti-Aging, Fitness Performance, Weight Management, Energy Levels",<200 AED,311.1,Neutral
+37,Female,Doctorate,<2000 AED,Ajman,1-2 times/week,Vegan,Yes,Neutral,"Energy Levels, Mental Wellness, Immunity Boost, Weight Management, Anti-Aging",1000-2000 AED,1557.44,Highly Interested
+53,Male,Master’s,5000-10000 AED,Sharjah,3-4 times/week,Vegan,Yes,Somewhat Interested,"Immunity Boost, Anti-Aging, Fitness Performance",<200 AED,491.33,Neutral
+36,Female,Master’s,<2000 AED,Ras Al Khaimah,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Skin Health, Mental Wellness",500-1000 AED,886.58,Highly Interested
+43,Male,Master’s,>20000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Skin Health, Weight Management",200-500 AED,231.88,Interested
+20,Female,Doctorate,5000-10000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Skin Health, Fitness Performance",200-500 AED,433.53,Neutral
+36,Male,Doctorate,2000-5000 AED,Abu Dhabi,3-4 times/week,Vegan,Yes,Not Interested,"Skin Health, Anti-Aging, Fitness Performance",500-1000 AED,585.27,Highly Interested
+37,Male,Master’s,2000-5000 AED,Dubai,1-2 times/week,Keto/Low Carb,Yes,Somewhat Interested,"Weight Management, Fitness Performance, Immunity Boost, Mental Wellness",>2000 AED,2447.35,Neutral
+49,Female,Master’s,5000-10000 AED,Abu Dhabi,Never,Vegetarian,Yes,Somewhat Interested,"Anti-Aging, Fitness Performance, Immunity Boost",1000-2000 AED,1210.46,Interested
+24,Prefer not to say,High School,10000-20000 AED,Dubai,1-2 times/week,Keto/Low Carb,Yes,Neutral,"Mental Wellness, Energy Levels, Anti-Aging",200-500 AED,406.87,Interested
+58,Female,High School,10000-20000 AED,Sharjah,1-2 times/week,Non-Vegetarian,No,Somewhat Interested,"Weight Management, Energy Levels, Skin Health, Fitness Performance",200-500 AED,463.19,Interested
+50,Female,Bachelor’s,5000-10000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Skin Health, Anti-Aging",1000-2000 AED,1290.36,Neutral
+57,Non-binary,High School,<2000 AED,Dubai,3-4 times/week,Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Weight Management, Energy Levels, Fitness Performance, Skin Health",500-1000 AED,541.01,Highly Interested
+56,Male,Bachelor’s,2000-5000 AED,Sharjah,1-2 times/week,Vegetarian,No,Somewhat Interested,"Mental Wellness, Anti-Aging, Weight Management, Fitness Performance, Energy Levels",200-500 AED,289.55,Highly Interested
+35,Prefer not to say,High School,<2000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Anti-Aging",1000-2000 AED,1672.36,Neutral
+57,Female,Bachelor’s,5000-10000 AED,Dubai,Never,Non-Vegetarian,Yes,Somewhat Interested,"Weight Management, Energy Levels",1000-2000 AED,1328.76,Neutral
+18,Female,Master’s,10000-20000 AED,Other,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Weight Management, Mental Wellness, Immunity Boost, Fitness Performance",>2000 AED,2278.11,Highly Interested
+28,Female,Doctorate,5000-10000 AED,Ras Al Khaimah,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Skin Health",>2000 AED,2184.44,Interested
+45,Female,High School,2000-5000 AED,Abu Dhabi,1-2 times/week,Pescatarian,Yes,Somewhat Interested,"Anti-Aging, Immunity Boost",1000-2000 AED,1497.52,Interested
+42,Female,Bachelor’s,5000-10000 AED,Dubai,Never,Pescatarian,Yes,Very Interested,"Weight Management, Skin Health, Energy Levels, Anti-Aging, Mental Wellness",<200 AED,210.38,Interested
+40,Female,Master’s,10000-20000 AED,Sharjah,3-4 times/week,Keto/Low Carb,Yes,Very Interested,"Weight Management, Mental Wellness, Immunity Boost, Skin Health, Energy Levels",200-500 AED,419.3,Highly Interested
+48,Female,High School,10000-20000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Fitness Performance, Weight Management",500-1000 AED,538.31,Interested
+47,Male,Master’s,10000-20000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Mental Wellness, Anti-Aging, Weight Management, Energy Levels, Immunity Boost",500-1000 AED,832.02,Highly Interested
+59,Prefer not to say,Bachelor’s,2000-5000 AED,Abu Dhabi,3-4 times/week,Vegan,Yes,Somewhat Interested,"Skin Health, Energy Levels, Weight Management, Anti-Aging",500-1000 AED,618.78,Neutral
+52,Female,Bachelor’s,2000-5000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,Yes,Neutral,"Skin Health, Anti-Aging, Immunity Boost, Mental Wellness",500-1000 AED,744.64,Neutral
+24,Male,Doctorate,10000-20000 AED,Abu Dhabi,1-2 times/week,Vegetarian,No,Somewhat Interested,"Fitness Performance, Mental Wellness, Skin Health, Immunity Boost, Energy Levels",500-1000 AED,643.04,Interested
+33,Female,High School,5000-10000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Mental Wellness, Anti-Aging, Skin Health",500-1000 AED,861.38,Highly Interested
+43,Female,Master’s,2000-5000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Weight Management, Fitness Performance, Skin Health, Anti-Aging",<200 AED,478.12,Highly Interested
+19,Female,Master’s,10000-20000 AED,Ras Al Khaimah,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Fitness Performance, Immunity Boost, Anti-Aging",200-500 AED,475.12,Interested
+18,Female,High School,10000-20000 AED,Dubai,1-2 times/week,Non-Vegetarian,No,Somewhat Interested,"Immunity Boost, Skin Health",500-1000 AED,791.71,Interested
+29,Male,Master’s,5000-10000 AED,Sharjah,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Weight Management, Anti-Aging",1000-2000 AED,1462.61,Highly Interested
+22,Female,Doctorate,5000-10000 AED,Ajman,3-4 times/week,Vegetarian,No,Somewhat Interested,"Weight Management, Immunity Boost, Anti-Aging, Fitness Performance",200-500 AED,445.49,Interested
+54,Non-binary,High School,2000-5000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Skin Health, Immunity Boost, Weight Management",500-1000 AED,841.66,Highly Interested
+49,Male,Master’s,5000-10000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,Yes,Neutral,"Anti-Aging, Immunity Boost, Energy Levels, Fitness Performance, Skin Health",1000-2000 AED,1183.56,Highly Interested
+26,Female,Bachelor’s,5000-10000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Anti-Aging, Immunity Boost, Fitness Performance",500-1000 AED,910.46,Highly Interested
+58,Male,Bachelor’s,10000-20000 AED,Abu Dhabi,Never,Vegetarian,Yes,Very Interested,"Fitness Performance, Anti-Aging",<200 AED,271.55,Highly Interested
+52,Female,Bachelor’s,10000-20000 AED,Ajman,5+ times/week,Non-Vegetarian,Yes,Neutral,"Weight Management, Skin Health, Fitness Performance, Mental Wellness, Energy Levels",500-1000 AED,594.49,Highly Interested
+36,Female,Bachelor’s,10000-20000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Skin Health, Anti-Aging, Energy Levels",200-500 AED,284.54,Interested
+33,Female,Doctorate,<2000 AED,Other,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Mental Wellness, Anti-Aging, Immunity Boost",>2000 AED,2267.53,Neutral
+20,Male,Doctorate,10000-20000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Energy Levels, Immunity Boost, Fitness Performance, Anti-Aging",200-500 AED,355.76,Neutral
+37,Female,Bachelor’s,10000-20000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Immunity Boost, Mental Wellness, Weight Management, Anti-Aging, Energy Levels",500-1000 AED,617.19,Highly Interested
+41,Male,Master’s,5000-10000 AED,Abu Dhabi,5+ times/week,Keto/Low Carb,No,Somewhat Interested,"Fitness Performance, Energy Levels",<200 AED,149.43,Highly Interested
+50,Male,Bachelor’s,10000-20000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Skin Health, Weight Management, Fitness Performance, Anti-Aging",500-1000 AED,561.85,Highly Interested
+41,Male,Bachelor’s,10000-20000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Mental Wellness, Anti-Aging, Skin Health, Weight Management, Immunity Boost",500-1000 AED,791.64,Highly Interested
+28,Male,Master’s,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Energy Levels, Mental Wellness, Skin Health, Anti-Aging",200-500 AED,420.43,Interested
+25,Female,Bachelor’s,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Very Interested,"Mental Wellness, Weight Management",500-1000 AED,660.77,Interested
+53,Female,Bachelor’s,<2000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Neutral,"Energy Levels, Anti-Aging, Weight Management, Mental Wellness",200-500 AED,210.4,Highly Interested
+55,Female,Master’s,2000-5000 AED,Other,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Skin Health, Energy Levels, Anti-Aging, Weight Management, Mental Wellness",200-500 AED,238.17,Highly Interested
+57,Male,Bachelor’s,5000-10000 AED,Dubai,5+ times/week,Vegan,Yes,Very Interested,"Immunity Boost, Weight Management",500-1000 AED,957.35,Highly Interested
+37,Female,High School,10000-20000 AED,Sharjah,Never,Non-Vegetarian,Yes,Somewhat Interested,"Weight Management, Fitness Performance",200-500 AED,348.06,Highly Interested
+52,Female,High School,2000-5000 AED,Sharjah,5+ times/week,Vegetarian,Yes,Very Interested,"Weight Management, Mental Wellness, Energy Levels, Immunity Boost, Fitness Performance",1000-2000 AED,1453.57,Interested
+42,Male,Bachelor’s,<2000 AED,Ras Al Khaimah,Never,Non-Vegetarian,No,Neutral,"Skin Health, Fitness Performance, Energy Levels, Weight Management",500-1000 AED,519.02,Highly Interested
+52,Non-binary,Master’s,5000-10000 AED,Dubai,1-2 times/week,Pescatarian,Yes,Very Interested,"Immunity Boost, Skin Health, Weight Management",500-1000 AED,864.32,Interested
+42,Prefer not to say,Bachelor’s,<2000 AED,Ajman,Never,Vegetarian,Yes,Very Interested,"Skin Health, Mental Wellness, Anti-Aging, Immunity Boost, Fitness Performance",<200 AED,311.23,Interested
+46,Male,Master’s,2000-5000 AED,Abu Dhabi,Never,Keto/Low Carb,No,Somewhat Interested,"Skin Health, Weight Management, Immunity Boost, Energy Levels",500-1000 AED,601.04,Neutral
+35,Male,Bachelor’s,<2000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,Yes,Somewhat Interested,"Skin Health, Immunity Boost",1000-2000 AED,1110.07,Neutral
+63,Non-binary,Bachelor’s,2000-5000 AED,Abu Dhabi,1-2 times/week,Keto/Low Carb,No,Somewhat Interested,"Fitness Performance, Anti-Aging, Mental Wellness",200-500 AED,315.02,Interested
+35,Female,Bachelor’s,2000-5000 AED,Ajman,3-4 times/week,Keto/Low Carb,Yes,Very Interested,"Energy Levels, Weight Management, Skin Health, Immunity Boost",1000-2000 AED,1837.16,Highly Interested
+19,Male,Bachelor’s,2000-5000 AED,Dubai,1-2 times/week,Non-Vegetarian,No,Very Interested,"Energy Levels, Skin Health, Weight Management, Mental Wellness, Immunity Boost",200-500 AED,459.59,Interested
+52,Female,Master’s,5000-10000 AED,Sharjah,3-4 times/week,Vegetarian,Yes,Somewhat Interested,"Anti-Aging, Immunity Boost",1000-2000 AED,1602.85,Neutral
+33,Female,Master’s,10000-20000 AED,Abu Dhabi,3-4 times/week,Vegetarian,Yes,Very Interested,"Anti-Aging, Skin Health, Mental Wellness",<200 AED,391.01,Highly Interested
+58,Female,Bachelor’s,5000-10000 AED,Sharjah,1-2 times/week,Non-Vegetarian,No,Neutral,"Fitness Performance, Skin Health, Mental Wellness, Anti-Aging",1000-2000 AED,1115.16,Interested
+53,Female,High School,10000-20000 AED,Other,1-2 times/week,Vegan,Yes,Very Interested,"Fitness Performance, Anti-Aging",500-1000 AED,794.06,Neutral
+50,Female,High School,<2000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Somewhat Interested,"Energy Levels, Fitness Performance",200-500 AED,400.09,Interested
+21,Male,High School,2000-5000 AED,Other,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Energy Levels, Fitness Performance",200-500 AED,260.21,Highly Interested
+50,Male,Master’s,10000-20000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Immunity Boost, Fitness Performance",500-1000 AED,940.08,Highly Interested
+31,Female,Bachelor’s,<2000 AED,Dubai,1-2 times/week,Keto/Low Carb,Yes,Somewhat Interested,"Anti-Aging, Skin Health",>2000 AED,2195.0,Interested
+38,Non-binary,Bachelor’s,5000-10000 AED,Dubai,3-4 times/week,Vegetarian,Yes,Neutral,"Skin Health, Weight Management, Immunity Boost, Energy Levels",200-500 AED,294.04,Highly Interested
+37,Male,Bachelor’s,5000-10000 AED,Dubai,1-2 times/week,Vegetarian,Yes,Very Interested,"Weight Management, Fitness Performance",200-500 AED,386.17,Interested
+25,Female,High School,5000-10000 AED,Abu Dhabi,3-4 times/week,Vegetarian,Yes,Neutral,"Skin Health, Mental Wellness, Immunity Boost, Anti-Aging",500-1000 AED,819.18,Interested
+24,Female,Bachelor’s,<2000 AED,Dubai,1-2 times/week,Keto/Low Carb,Yes,Somewhat Interested,"Immunity Boost, Skin Health",500-1000 AED,849.69,Highly Interested
+20,Female,High School,2000-5000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Weight Management, Anti-Aging",500-1000 AED,556.01,Neutral
+34,Female,Bachelor’s,5000-10000 AED,Ras Al Khaimah,1-2 times/week,Non-Vegetarian,No,Very Interested,"Immunity Boost, Weight Management, Energy Levels, Fitness Performance",500-1000 AED,924.73,Interested
+50,Female,High School,<2000 AED,Ajman,3-4 times/week,Vegetarian,No,Very Interested,"Mental Wellness, Energy Levels",200-500 AED,359.85,Highly Interested
+29,Female,Master’s,5000-10000 AED,Ajman,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Weight Management, Energy Levels, Mental Wellness, Anti-Aging",>2000 AED,2471.32,Neutral
+39,Female,High School,10000-20000 AED,Ajman,1-2 times/week,Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Skin Health",500-1000 AED,990.55,Neutral
+39,Male,Doctorate,>20000 AED,Sharjah,3-4 times/week,Keto/Low Carb,Yes,Neutral,"Mental Wellness, Energy Levels, Immunity Boost, Anti-Aging",200-500 AED,422.11,Interested
+63,Female,Bachelor’s,2000-5000 AED,Dubai,1-2 times/week,Vegan,Yes,Not Interested,"Energy Levels, Immunity Boost, Anti-Aging, Mental Wellness",1000-2000 AED,1118.01,Neutral
+47,Male,Master’s,10000-20000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Somewhat Interested,"Weight Management, Anti-Aging, Fitness Performance",500-1000 AED,878.27,Interested
+55,Male,Bachelor’s,5000-10000 AED,Sharjah,5+ times/week,Pescatarian,Yes,Somewhat Interested,"Weight Management, Energy Levels",200-500 AED,228.57,Neutral
+55,Female,Master’s,2000-5000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Fitness Performance, Mental Wellness, Skin Health, Weight Management, Anti-Aging",500-1000 AED,513.74,Interested
+62,Male,Master’s,<2000 AED,Sharjah,Never,Vegan,Yes,Somewhat Interested,"Fitness Performance, Mental Wellness",200-500 AED,321.09,Interested
+25,Male,Bachelor’s,10000-20000 AED,Dubai,3-4 times/week,Pescatarian,No,Very Interested,"Energy Levels, Mental Wellness, Weight Management, Skin Health, Anti-Aging",500-1000 AED,996.79,Not Interested
+44,Female,Bachelor’s,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Skin Health, Fitness Performance, Energy Levels, Anti-Aging, Weight Management",1000-2000 AED,1174.88,Interested
+44,Male,Bachelor’s,2000-5000 AED,Abu Dhabi,5+ times/week,Vegan,Yes,Very Interested,"Fitness Performance, Mental Wellness, Anti-Aging",200-500 AED,401.79,Highly Interested
+51,Male,Bachelor’s,<2000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Skin Health, Immunity Boost, Energy Levels",500-1000 AED,586.7,Interested
+38,Female,High School,10000-20000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Anti-Aging, Mental Wellness, Energy Levels, Immunity Boost",1000-2000 AED,1724.79,Interested
+47,Female,Bachelor’s,10000-20000 AED,Sharjah,3-4 times/week,Vegetarian,No,Very Interested,"Weight Management, Fitness Performance",>2000 AED,2505.35,Highly Interested
+50,Male,Bachelor’s,10000-20000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Fitness Performance, Energy Levels, Immunity Boost, Anti-Aging, Mental Wellness",500-1000 AED,839.99,Not Interested
+45,Female,Bachelor’s,2000-5000 AED,Dubai,1-2 times/week,Vegan,Yes,Somewhat Interested,"Immunity Boost, Energy Levels",500-1000 AED,601.44,Highly Interested
+64,Female,Master’s,2000-5000 AED,Ajman,3-4 times/week,Keto/Low Carb,Yes,Somewhat Interested,"Energy Levels, Weight Management, Skin Health, Fitness Performance",500-1000 AED,872.81,Highly Interested
+50,Female,Master’s,5000-10000 AED,Sharjah,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Fitness Performance, Anti-Aging, Skin Health",>2000 AED,2995.62,Neutral
+22,Female,Doctorate,5000-10000 AED,Dubai,3-4 times/week,Pescatarian,Yes,Somewhat Interested,"Fitness Performance, Immunity Boost, Anti-Aging",1000-2000 AED,1665.65,Interested
+36,Prefer not to say,Bachelor’s,2000-5000 AED,Ajman,3-4 times/week,Pescatarian,No,Very Interested,"Fitness Performance, Mental Wellness",200-500 AED,348.04,Highly Interested
+21,Female,Bachelor’s,5000-10000 AED,Dubai,3-4 times/week,Vegetarian,No,Very Interested,"Immunity Boost, Mental Wellness, Weight Management, Energy Levels",500-1000 AED,961.59,Interested
+52,Female,Bachelor’s,>20000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,No,Somewhat Interested,"Immunity Boost, Energy Levels, Anti-Aging",500-1000 AED,507.93,Interested
+34,Female,Bachelor’s,10000-20000 AED,Dubai,3-4 times/week,Vegetarian,Yes,Somewhat Interested,"Energy Levels, Weight Management, Skin Health, Mental Wellness",1000-2000 AED,1729.92,Highly Interested
+61,Male,Master’s,10000-20000 AED,Sharjah,3-4 times/week,Non-Vegetarian,No,Very Interested,"Mental Wellness, Weight Management",500-1000 AED,944.37,Not Interested
+45,Male,High School,>20000 AED,Sharjah,3-4 times/week,Keto/Low Carb,Yes,Very Interested,"Energy Levels, Skin Health, Weight Management, Anti-Aging, Mental Wellness",500-1000 AED,530.84,Interested
+47,Female,Master’s,2000-5000 AED,Dubai,Never,Vegetarian,Yes,Very Interested,"Skin Health, Mental Wellness",>2000 AED,2450.06,Interested
+46,Female,Bachelor’s,5000-10000 AED,Ajman,1-2 times/week,Vegan,Yes,Somewhat Interested,"Mental Wellness, Anti-Aging, Immunity Boost, Weight Management, Fitness Performance",<200 AED,181.89,Interested
+63,Female,Bachelor’s,>20000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Weight Management, Fitness Performance",200-500 AED,369.96,Interested
+23,Male,Bachelor’s,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Fitness Performance, Immunity Boost, Skin Health, Weight Management, Mental Wellness",500-1000 AED,824.77,Highly Interested
+52,Female,Bachelor’s,10000-20000 AED,Dubai,Never,Non-Vegetarian,No,Neutral,"Fitness Performance, Anti-Aging, Mental Wellness, Energy Levels",200-500 AED,290.79,Highly Interested
+58,Male,Bachelor’s,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Mental Wellness, Immunity Boost, Weight Management",<200 AED,283.99,Interested
+54,Female,Bachelor’s,5000-10000 AED,Dubai,5+ times/week,Vegetarian,Yes,Not Interested,"Mental Wellness, Skin Health, Energy Levels",<200 AED,211.74,Neutral
+41,Female,High School,5000-10000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Anti-Aging, Immunity Boost, Fitness Performance, Weight Management, Mental Wellness",500-1000 AED,684.7,Highly Interested
+46,Female,Bachelor’s,>20000 AED,Ajman,3-4 times/week,Vegetarian,No,Somewhat Interested,"Fitness Performance, Skin Health, Immunity Boost",1000-2000 AED,1159.54,Interested
+63,Female,High School,10000-20000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Skin Health, Immunity Boost",500-1000 AED,942.78,Neutral
+48,Female,Bachelor’s,<2000 AED,Dubai,5+ times/week,Vegetarian,No,Somewhat Interested,"Anti-Aging, Energy Levels, Mental Wellness, Immunity Boost, Weight Management",500-1000 AED,505.01,Highly Interested
+52,Male,Bachelor’s,10000-20000 AED,Dubai,3-4 times/week,Pescatarian,Yes,Somewhat Interested,"Fitness Performance, Energy Levels, Weight Management, Immunity Boost",200-500 AED,464.72,Highly Interested
+50,Female,Bachelor’s,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Fitness Performance, Weight Management",1000-2000 AED,1571.68,Highly Interested
+38,Male,Master’s,2000-5000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Anti-Aging",1000-2000 AED,1331.66,Interested
+49,Female,High School,5000-10000 AED,Sharjah,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Skin Health, Mental Wellness",500-1000 AED,861.53,Highly Interested
+40,Female,Master’s,5000-10000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Energy Levels",200-500 AED,352.33,Interested
+50,Female,Bachelor’s,5000-10000 AED,Sharjah,Never,Keto/Low Carb,Yes,Very Interested,"Skin Health, Immunity Boost, Weight Management, Energy Levels, Mental Wellness",<200 AED,299.64,Interested
+20,Female,Bachelor’s,>20000 AED,Ajman,5+ times/week,Vegetarian,Yes,Very Interested,"Mental Wellness, Weight Management, Energy Levels, Fitness Performance",<200 AED,144.06,Interested
+35,Female,Master’s,10000-20000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,No,Very Interested,"Skin Health, Anti-Aging",500-1000 AED,694.76,Highly Interested
+42,Prefer not to say,High School,5000-10000 AED,Ajman,3-4 times/week,Vegan,Yes,Somewhat Interested,"Fitness Performance, Weight Management",1000-2000 AED,1241.06,Interested
+59,Male,Bachelor’s,<2000 AED,Abu Dhabi,1-2 times/week,Vegetarian,Yes,Neutral,"Mental Wellness, Fitness Performance",1000-2000 AED,1015.7,Neutral
+48,Male,Bachelor’s,>20000 AED,Abu Dhabi,3-4 times/week,Vegetarian,Yes,Neutral,"Mental Wellness, Anti-Aging, Skin Health",500-1000 AED,680.05,Neutral
+20,Male,Bachelor’s,>20000 AED,Abu Dhabi,Never,Non-Vegetarian,No,Somewhat Interested,"Skin Health, Mental Wellness",1000-2000 AED,1089.82,Neutral
+57,Male,High School,10000-20000 AED,Abu Dhabi,5+ times/week,Vegetarian,No,Somewhat Interested,"Mental Wellness, Skin Health, Fitness Performance, Energy Levels",>2000 AED,2256.83,Interested
+63,Female,High School,<2000 AED,Dubai,5+ times/week,Non-Vegetarian,No,Neutral,"Skin Health, Energy Levels, Weight Management",200-500 AED,227.75,Interested
+41,Non-binary,Master’s,<2000 AED,Dubai,1-2 times/week,Non-Vegetarian,No,Very Interested,"Mental Wellness, Energy Levels, Weight Management, Skin Health, Immunity Boost",500-1000 AED,550.47,Highly Interested
+49,Male,Bachelor’s,2000-5000 AED,Dubai,5+ times/week,Pescatarian,Yes,Very Interested,"Fitness Performance, Mental Wellness, Skin Health",>2000 AED,2199.01,Highly Interested
+64,Male,Bachelor’s,<2000 AED,Abu Dhabi,3-4 times/week,Vegan,Yes,Neutral,"Weight Management, Mental Wellness, Fitness Performance",200-500 AED,499.95,Highly Interested
+39,Male,Bachelor’s,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Mental Wellness, Energy Levels, Fitness Performance",>2000 AED,2002.18,Interested
+40,Female,Master’s,>20000 AED,Ras Al Khaimah,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Energy Levels, Mental Wellness, Anti-Aging",>2000 AED,2638.67,Highly Interested
+19,Female,High School,5000-10000 AED,Sharjah,1-2 times/week,Pescatarian,Yes,Very Interested,"Anti-Aging, Weight Management, Skin Health, Immunity Boost",500-1000 AED,570.62,Highly Interested
+44,Male,Bachelor’s,<2000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Skin Health, Fitness Performance, Immunity Boost",1000-2000 AED,1920.63,Not Interested
+59,Non-binary,Bachelor’s,2000-5000 AED,Dubai,1-2 times/week,Pescatarian,No,Neutral,"Weight Management, Immunity Boost",1000-2000 AED,1093.63,Highly Interested
+19,Female,Doctorate,<2000 AED,Ajman,5+ times/week,Vegan,No,Somewhat Interested,"Mental Wellness, Anti-Aging, Energy Levels",500-1000 AED,977.53,Highly Interested
+43,Male,Bachelor’s,<2000 AED,Ajman,Never,Vegan,No,Very Interested,"Skin Health, Immunity Boost, Energy Levels",200-500 AED,383.28,Highly Interested
+34,Female,Bachelor’s,2000-5000 AED,Sharjah,5+ times/week,Non-Vegetarian,No,Very Interested,"Weight Management, Anti-Aging, Energy Levels",<200 AED,100.51,Interested
+57,Female,Bachelor’s,2000-5000 AED,Dubai,1-2 times/week,Non-Vegetarian,No,Somewhat Interested,"Anti-Aging, Fitness Performance, Energy Levels, Immunity Boost",200-500 AED,468.2,Interested
+50,Male,Bachelor’s,10000-20000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Skin Health, Mental Wellness, Weight Management",500-1000 AED,760.86,Highly Interested
+26,Male,Bachelor’s,>20000 AED,Dubai,3-4 times/week,Vegan,Yes,Very Interested,"Fitness Performance, Anti-Aging",200-500 AED,278.8,Interested
+60,Male,Bachelor’s,2000-5000 AED,Dubai,5+ times/week,Vegetarian,No,Neutral,"Skin Health, Weight Management, Immunity Boost",<200 AED,406.91,Neutral
+56,Male,Master’s,5000-10000 AED,Sharjah,1-2 times/week,Vegan,No,Very Interested,"Immunity Boost, Weight Management",200-500 AED,478.0,Neutral
+46,Female,Master’s,10000-20000 AED,Sharjah,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Weight Management, Anti-Aging, Immunity Boost",1000-2000 AED,1483.69,Not Interested
+59,Non-binary,Bachelor’s,2000-5000 AED,Abu Dhabi,3-4 times/week,Vegetarian,No,Somewhat Interested,"Energy Levels, Immunity Boost, Skin Health",>2000 AED,2315.55,Neutral
+43,Male,Master’s,2000-5000 AED,Ajman,Never,Vegetarian,Yes,Very Interested,"Fitness Performance, Anti-Aging, Immunity Boost, Weight Management, Energy Levels",>2000 AED,2788.95,Interested
+52,Male,Bachelor’s,10000-20000 AED,Abu Dhabi,1-2 times/week,Vegetarian,Yes,Neutral,"Skin Health, Immunity Boost, Weight Management, Energy Levels",500-1000 AED,840.89,Highly Interested
+42,Male,Bachelor’s,<2000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Fitness Performance, Anti-Aging",1000-2000 AED,1888.75,Highly Interested
+41,Male,High School,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Fitness Performance, Anti-Aging",1000-2000 AED,1692.51,Highly Interested
+30,Female,Doctorate,5000-10000 AED,Ras Al Khaimah,3-4 times/week,Keto/Low Carb,Yes,Very Interested,"Immunity Boost, Weight Management, Skin Health, Anti-Aging, Fitness Performance",500-1000 AED,621.76,Interested
+24,Male,High School,2000-5000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Fitness Performance, Skin Health",500-1000 AED,965.83,Neutral
+53,Male,High School,2000-5000 AED,Ras Al Khaimah,3-4 times/week,Vegetarian,No,Very Interested,"Anti-Aging, Fitness Performance, Mental Wellness, Weight Management, Energy Levels",200-500 AED,231.45,Interested
+62,Male,High School,10000-20000 AED,Ajman,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Weight Management, Skin Health",>2000 AED,2267.94,Highly Interested
+37,Female,Bachelor’s,<2000 AED,Dubai,3-4 times/week,Pescatarian,No,Somewhat Interested,"Mental Wellness, Weight Management, Fitness Performance",500-1000 AED,760.1,Interested
+18,Male,High School,2000-5000 AED,Abu Dhabi,5+ times/week,Vegan,Yes,Neutral,"Fitness Performance, Anti-Aging",500-1000 AED,782.87,Neutral
+25,Female,High School,10000-20000 AED,Ajman,3-4 times/week,Vegetarian,Yes,Somewhat Interested,"Energy Levels, Mental Wellness, Weight Management, Immunity Boost, Anti-Aging",500-1000 AED,507.66,Interested
+63,Male,High School,5000-10000 AED,Abu Dhabi,3-4 times/week,Pescatarian,No,Neutral,"Weight Management, Energy Levels, Anti-Aging",200-500 AED,434.17,Neutral
+33,Female,High School,<2000 AED,Ras Al Khaimah,1-2 times/week,Vegan,Yes,Somewhat Interested,"Energy Levels, Skin Health, Mental Wellness",200-500 AED,308.48,Neutral
+31,Female,Bachelor’s,10000-20000 AED,Ras Al Khaimah,3-4 times/week,Vegetarian,No,Very Interested,"Weight Management, Mental Wellness, Fitness Performance, Skin Health",500-1000 AED,703.21,Neutral
+29,Male,Master’s,2000-5000 AED,Abu Dhabi,1-2 times/week,Vegetarian,Yes,Very Interested,"Immunity Boost, Mental Wellness, Weight Management",<200 AED,423.75,Neutral
+40,Male,Bachelor’s,10000-20000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Weight Management, Fitness Performance, Skin Health",1000-2000 AED,1379.28,Interested
+32,Female,Bachelor’s,10000-20000 AED,Ras Al Khaimah,3-4 times/week,Vegetarian,Yes,Very Interested,"Mental Wellness, Weight Management",500-1000 AED,523.61,Highly Interested
+45,Non-binary,Master’s,5000-10000 AED,Sharjah,5+ times/week,Pescatarian,Yes,Very Interested,"Fitness Performance, Mental Wellness, Anti-Aging, Energy Levels",500-1000 AED,588.22,Highly Interested
+51,Female,High School,5000-10000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Fitness Performance, Weight Management, Energy Levels, Immunity Boost, Anti-Aging",500-1000 AED,977.95,Interested
+19,Female,Bachelor’s,>20000 AED,Dubai,3-4 times/week,Keto/Low Carb,Yes,Neutral,"Immunity Boost, Weight Management, Mental Wellness, Fitness Performance, Energy Levels",500-1000 AED,535.2,Highly Interested
+49,Non-binary,Doctorate,<2000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Weight Management, Anti-Aging, Mental Wellness, Skin Health",500-1000 AED,677.47,Not Interested
+40,Female,Bachelor’s,10000-20000 AED,Ras Al Khaimah,1-2 times/week,Vegetarian,Yes,Somewhat Interested,"Anti-Aging, Skin Health, Weight Management, Fitness Performance",500-1000 AED,751.59,Highly Interested
+39,Male,Bachelor’s,2000-5000 AED,Ajman,1-2 times/week,Vegetarian,Yes,Neutral,"Fitness Performance, Immunity Boost, Anti-Aging, Skin Health, Mental Wellness",1000-2000 AED,1493.28,Neutral
+42,Non-binary,Bachelor’s,2000-5000 AED,Sharjah,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Mental Wellness, Fitness Performance, Anti-Aging",1000-2000 AED,1003.96,Highly Interested
+39,Male,Bachelor’s,2000-5000 AED,Dubai,1-2 times/week,Vegan,Yes,Very Interested,"Anti-Aging, Skin Health",1000-2000 AED,1501.16,Highly Interested
+39,Female,Bachelor’s,>20000 AED,Dubai,1-2 times/week,Vegan,No,Very Interested,"Immunity Boost, Fitness Performance, Energy Levels, Mental Wellness, Weight Management",200-500 AED,315.13,Neutral
+59,Male,High School,>20000 AED,Ajman,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Fitness Performance, Weight Management, Mental Wellness, Energy Levels",500-1000 AED,986.04,Highly Interested
+23,Male,High School,2000-5000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Anti-Aging, Immunity Boost, Fitness Performance",>2000 AED,2159.16,Highly Interested
+32,Male,High School,<2000 AED,Dubai,3-4 times/week,Vegetarian,Yes,Neutral,"Energy Levels, Skin Health, Anti-Aging",500-1000 AED,677.08,Highly Interested
+60,Female,Doctorate,10000-20000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Anti-Aging, Skin Health, Immunity Boost, Weight Management",200-500 AED,325.84,Interested
+54,Male,Master’s,5000-10000 AED,Sharjah,5+ times/week,Vegetarian,Yes,Very Interested,"Mental Wellness, Skin Health",500-1000 AED,695.35,Highly Interested
+50,Male,High School,<2000 AED,Ras Al Khaimah,3-4 times/week,Non-Vegetarian,No,Very Interested,"Mental Wellness, Skin Health, Energy Levels, Weight Management, Anti-Aging",200-500 AED,399.75,Interested
+25,Male,High School,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Immunity Boost, Skin Health, Energy Levels, Anti-Aging, Fitness Performance",200-500 AED,264.65,Interested
+61,Female,Master’s,5000-10000 AED,Abu Dhabi,5+ times/week,Keto/Low Carb,No,Very Interested,"Skin Health, Mental Wellness",>2000 AED,2221.07,Interested
+61,Prefer not to say,High School,>20000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Anti-Aging, Immunity Boost, Skin Health, Energy Levels, Weight Management",500-1000 AED,864.61,Interested
+22,Female,High School,2000-5000 AED,Other,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Skin Health, Anti-Aging, Fitness Performance",200-500 AED,350.09,Interested
+56,Female,Doctorate,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Very Interested,"Anti-Aging, Skin Health, Weight Management",>2000 AED,2415.16,Highly Interested
+21,Female,Bachelor’s,5000-10000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Mental Wellness, Immunity Boost, Skin Health, Energy Levels",>2000 AED,2169.2,Neutral
+23,Female,Master’s,10000-20000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Weight Management, Energy Levels, Skin Health",500-1000 AED,593.76,Highly Interested
+62,Male,Doctorate,5000-10000 AED,Ajman,3-4 times/week,Keto/Low Carb,Yes,Very Interested,"Skin Health, Anti-Aging",200-500 AED,203.17,Interested
+49,Male,Bachelor’s,5000-10000 AED,Abu Dhabi,3-4 times/week,Pescatarian,No,Very Interested,"Fitness Performance, Weight Management, Anti-Aging, Mental Wellness, Immunity Boost",1000-2000 AED,1091.43,Interested
+47,Male,High School,2000-5000 AED,Dubai,Never,Non-Vegetarian,Yes,Somewhat Interested,"Energy Levels, Skin Health, Fitness Performance, Anti-Aging, Immunity Boost",1000-2000 AED,1556.84,Neutral
+64,Male,High School,10000-20000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,No,Neutral,"Energy Levels, Fitness Performance, Skin Health, Anti-Aging",500-1000 AED,945.94,Interested
+52,Male,Master’s,5000-10000 AED,Sharjah,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Anti-Aging, Energy Levels, Fitness Performance",1000-2000 AED,1287.16,Highly Interested
+57,Female,Master’s,<2000 AED,Dubai,3-4 times/week,Vegan,Yes,Somewhat Interested,"Mental Wellness, Fitness Performance, Anti-Aging, Skin Health",500-1000 AED,663.87,Interested
+33,Male,Master’s,5000-10000 AED,Ajman,5+ times/week,Vegetarian,Yes,Very Interested,"Skin Health, Mental Wellness, Energy Levels, Fitness Performance, Weight Management",200-500 AED,234.68,Interested
+30,Female,High School,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Anti-Aging, Energy Levels, Weight Management, Fitness Performance",500-1000 AED,694.32,Highly Interested
+59,Female,Master’s,<2000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,No,Neutral,"Anti-Aging, Energy Levels, Weight Management, Mental Wellness",200-500 AED,211.17,Interested
+47,Male,Doctorate,10000-20000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Energy Levels, Mental Wellness, Anti-Aging, Weight Management",1000-2000 AED,1917.6,Interested
+36,Female,Bachelor’s,5000-10000 AED,Sharjah,1-2 times/week,Non-Vegetarian,No,Neutral,"Immunity Boost, Fitness Performance, Mental Wellness, Energy Levels",500-1000 AED,836.56,Not Interested
+34,Female,Doctorate,10000-20000 AED,Dubai,3-4 times/week,Keto/Low Carb,Yes,Very Interested,"Energy Levels, Anti-Aging, Mental Wellness, Fitness Performance",<200 AED,496.3,Interested
+36,Male,Master’s,2000-5000 AED,Ajman,3-4 times/week,Vegetarian,No,Very Interested,"Anti-Aging, Fitness Performance, Immunity Boost, Weight Management, Skin Health",500-1000 AED,941.41,Highly Interested
+45,Female,Master’s,10000-20000 AED,Sharjah,3-4 times/week,Non-Vegetarian,Yes,Neutral,"Fitness Performance, Anti-Aging",200-500 AED,341.9,Highly Interested
+43,Female,Bachelor’s,<2000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Anti-Aging, Mental Wellness",200-500 AED,355.91,Neutral
+54,Female,Bachelor’s,2000-5000 AED,Sharjah,3-4 times/week,Pescatarian,Yes,Very Interested,"Anti-Aging, Immunity Boost",500-1000 AED,595.29,Neutral
+43,Female,High School,>20000 AED,Sharjah,3-4 times/week,Keto/Low Carb,Yes,Somewhat Interested,"Weight Management, Anti-Aging, Energy Levels, Skin Health, Fitness Performance",200-500 AED,338.61,Highly Interested
+40,Female,Bachelor’s,10000-20000 AED,Dubai,5+ times/week,Non-Vegetarian,No,Neutral,"Immunity Boost, Energy Levels, Fitness Performance",1000-2000 AED,1903.03,Highly Interested
+26,Female,Bachelor’s,5000-10000 AED,Dubai,3-4 times/week,Vegan,No,Neutral,"Anti-Aging, Energy Levels",<200 AED,120.34,Interested
+29,Male,Master’s,2000-5000 AED,Ras Al Khaimah,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Skin Health, Weight Management, Fitness Performance",500-1000 AED,931.78,Highly Interested
+18,Male,Doctorate,10000-20000 AED,Dubai,5+ times/week,Non-Vegetarian,No,Neutral,"Immunity Boost, Skin Health, Fitness Performance, Energy Levels, Weight Management",1000-2000 AED,1340.95,Highly Interested
+18,Male,Master’s,5000-10000 AED,Sharjah,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Weight Management, Mental Wellness",500-1000 AED,949.76,Highly Interested
+64,Female,High School,10000-20000 AED,Other,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Fitness Performance, Mental Wellness",500-1000 AED,970.44,Highly Interested
+51,Male,Bachelor’s,10000-20000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Energy Levels, Weight Management, Mental Wellness",>2000 AED,2670.86,Interested
+49,Female,High School,<2000 AED,Sharjah,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Skin Health, Mental Wellness, Fitness Performance, Weight Management",200-500 AED,399.33,Interested
+42,Female,Master’s,<2000 AED,Abu Dhabi,3-4 times/week,Vegetarian,Yes,Very Interested,"Anti-Aging, Immunity Boost, Skin Health, Energy Levels",<200 AED,281.1,Highly Interested
+57,Female,Master’s,5000-10000 AED,Abu Dhabi,3-4 times/week,Keto/Low Carb,Yes,Somewhat Interested,"Skin Health, Immunity Boost, Fitness Performance, Mental Wellness",500-1000 AED,917.77,Highly Interested
+62,Prefer not to say,Doctorate,2000-5000 AED,Dubai,3-4 times/week,Vegetarian,No,Very Interested,"Anti-Aging, Skin Health, Fitness Performance, Weight Management",<200 AED,484.65,Highly Interested
+18,Female,Bachelor’s,2000-5000 AED,Dubai,5+ times/week,Non-Vegetarian,No,Very Interested,"Fitness Performance, Immunity Boost",>2000 AED,2775.08,Interested
+33,Female,Doctorate,>20000 AED,Sharjah,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Skin Health, Weight Management",200-500 AED,386.58,Highly Interested
+56,Male,Master’s,5000-10000 AED,Ajman,1-2 times/week,Vegan,No,Somewhat Interested,"Energy Levels, Anti-Aging, Immunity Boost, Mental Wellness, Fitness Performance",1000-2000 AED,1606.79,Interested
+22,Female,Bachelor’s,10000-20000 AED,Sharjah,1-2 times/week,Vegetarian,Yes,Somewhat Interested,"Fitness Performance, Immunity Boost, Mental Wellness, Energy Levels, Skin Health",1000-2000 AED,1849.47,Interested
+39,Male,Master’s,5000-10000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Fitness Performance, Immunity Boost, Skin Health, Energy Levels",200-500 AED,362.36,Highly Interested
+46,Male,Bachelor’s,5000-10000 AED,Dubai,3-4 times/week,Keto/Low Carb,No,Somewhat Interested,"Weight Management, Anti-Aging",500-1000 AED,901.93,Highly Interested
+20,Female,Bachelor’s,<2000 AED,Sharjah,5+ times/week,Non-Vegetarian,Yes,Somewhat Interested,"Skin Health, Weight Management",<200 AED,303.55,Highly Interested
+29,Female,Bachelor’s,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Neutral,"Energy Levels, Immunity Boost, Fitness Performance, Weight Management",500-1000 AED,531.22,Interested
+43,Male,Bachelor’s,2000-5000 AED,Ras Al Khaimah,3-4 times/week,Pescatarian,Yes,Very Interested,"Anti-Aging, Energy Levels",<200 AED,253.58,Neutral
+33,Female,Bachelor’s,2000-5000 AED,Ajman,Never,Vegetarian,Yes,Very Interested,"Weight Management, Energy Levels",>2000 AED,2444.44,Highly Interested
+54,Female,Bachelor’s,10000-20000 AED,Sharjah,3-4 times/week,Non-Vegetarian,No,Neutral,"Fitness Performance, Skin Health, Immunity Boost",>2000 AED,2141.62,Neutral
+39,Female,Bachelor’s,2000-5000 AED,Ras Al Khaimah,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Weight Management, Anti-Aging, Immunity Boost",200-500 AED,230.75,Highly Interested
+46,Female,Bachelor’s,5000-10000 AED,Dubai,Never,Non-Vegetarian,Yes,Not Interested,"Fitness Performance, Skin Health, Immunity Boost, Weight Management",200-500 AED,360.64,Neutral
+31,Female,Bachelor’s,2000-5000 AED,Sharjah,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Weight Management, Mental Wellness, Anti-Aging, Immunity Boost, Skin Health",1000-2000 AED,1085.14,Interested
+45,Prefer not to say,Bachelor’s,<2000 AED,Dubai,1-2 times/week,Vegetarian,No,Somewhat Interested,"Energy Levels, Immunity Boost",200-500 AED,290.88,Interested
+22,Female,Bachelor’s,5000-10000 AED,Ras Al Khaimah,Never,Non-Vegetarian,Yes,Very Interested,"Mental Wellness, Skin Health, Weight Management, Fitness Performance, Energy Levels",1000-2000 AED,1744.6,Interested
+64,Female,Bachelor’s,2000-5000 AED,Dubai,3-4 times/week,Vegetarian,No,Very Interested,"Immunity Boost, Weight Management",500-1000 AED,982.22,Interested
+47,Prefer not to say,High School,2000-5000 AED,Sharjah,1-2 times/week,Vegan,Yes,Very Interested,"Fitness Performance, Mental Wellness, Anti-Aging",500-1000 AED,858.94,Neutral
+63,Non-binary,Bachelor’s,<2000 AED,Ajman,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Skin Health, Immunity Boost, Mental Wellness, Fitness Performance",1000-2000 AED,1992.63,Neutral
+22,Male,High School,2000-5000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Somewhat Interested,"Skin Health, Weight Management, Mental Wellness",500-1000 AED,849.17,Interested
+29,Male,Bachelor’s,10000-20000 AED,Dubai,3-4 times/week,Pescatarian,Yes,Neutral,"Mental Wellness, Skin Health, Fitness Performance",>2000 AED,2293.79,Highly Interested
+33,Male,Master’s,2000-5000 AED,Sharjah,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Anti-Aging, Immunity Boost, Energy Levels",>2000 AED,2672.05,Highly Interested
+43,Male,Bachelor’s,2000-5000 AED,Abu Dhabi,3-4 times/week,Vegetarian,Yes,Very Interested,"Energy Levels, Skin Health, Immunity Boost, Mental Wellness",200-500 AED,410.65,Neutral
+43,Female,Bachelor’s,5000-10000 AED,Dubai,3-4 times/week,Keto/Low Carb,No,Very Interested,"Immunity Boost, Energy Levels, Fitness Performance",<200 AED,248.69,Interested
+38,Female,Doctorate,2000-5000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Somewhat Interested,"Skin Health, Mental Wellness, Immunity Boost",>2000 AED,2017.71,Interested
+56,Female,Master’s,10000-20000 AED,Dubai,1-2 times/week,Vegetarian,No,Neutral,"Weight Management, Anti-Aging, Skin Health",>2000 AED,2703.2,Interested
+53,Male,Doctorate,5000-10000 AED,Ajman,5+ times/week,Vegan,Yes,Very Interested,"Skin Health, Energy Levels, Immunity Boost, Anti-Aging, Weight Management",<200 AED,108.68,Neutral
+50,Female,Master’s,5000-10000 AED,Abu Dhabi,Never,Non-Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Fitness Performance, Skin Health",1000-2000 AED,1631.19,Interested
+47,Female,High School,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Mental Wellness, Anti-Aging",500-1000 AED,581.81,Neutral
+54,Female,High School,2000-5000 AED,Dubai,Never,Non-Vegetarian,No,Somewhat Interested,"Fitness Performance, Energy Levels",200-500 AED,369.68,Neutral
+40,Non-binary,Bachelor’s,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Neutral,"Weight Management, Mental Wellness",1000-2000 AED,1503.91,Highly Interested
+27,Female,High School,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Weight Management, Mental Wellness, Immunity Boost, Fitness Performance, Anti-Aging",200-500 AED,204.05,Highly Interested
+22,Male,Bachelor’s,10000-20000 AED,Abu Dhabi,3-4 times/week,Keto/Low Carb,Yes,Very Interested,"Energy Levels, Weight Management, Mental Wellness, Immunity Boost, Skin Health",>2000 AED,2362.87,Neutral
+53,Female,Bachelor’s,2000-5000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Not Interested,"Weight Management, Energy Levels, Skin Health, Fitness Performance, Mental Wellness",200-500 AED,380.33,Highly Interested
+51,Male,Bachelor’s,5000-10000 AED,Dubai,1-2 times/week,Pescatarian,Yes,Neutral,"Fitness Performance, Weight Management, Anti-Aging",500-1000 AED,924.3,Neutral
+48,Male,Master’s,5000-10000 AED,Sharjah,Never,Non-Vegetarian,Yes,Somewhat Interested,"Mental Wellness, Skin Health, Energy Levels",200-500 AED,466.59,Highly Interested
+27,Female,Master’s,<2000 AED,Dubai,1-2 times/week,Pescatarian,Yes,Somewhat Interested,"Skin Health, Weight Management, Fitness Performance",500-1000 AED,741.92,Highly Interested
+36,Male,Bachelor’s,2000-5000 AED,Abu Dhabi,5+ times/week,Vegan,Yes,Very Interested,"Skin Health, Anti-Aging, Mental Wellness, Energy Levels, Immunity Boost",500-1000 AED,864.21,Neutral
+49,Female,Master’s,10000-20000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,No,Somewhat Interested,"Immunity Boost, Anti-Aging, Fitness Performance, Skin Health, Weight Management",200-500 AED,294.94,Interested
+18,Male,Bachelor’s,10000-20000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,Yes,Neutral,"Immunity Boost, Energy Levels, Skin Health",500-1000 AED,671.09,Highly Interested
+22,Female,Master’s,2000-5000 AED,Sharjah,5+ times/week,Non-Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Skin Health, Mental Wellness",500-1000 AED,597.23,Neutral
+62,Male,High School,10000-20000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Skin Health, Weight Management",<200 AED,324.78,Interested
+21,Prefer not to say,Doctorate,>20000 AED,Ajman,3-4 times/week,Pescatarian,Yes,Very Interested,"Anti-Aging, Immunity Boost, Energy Levels, Skin Health",1000-2000 AED,1314.56,Interested
+33,Female,Master’s,10000-20000 AED,Sharjah,Never,Pescatarian,Yes,Very Interested,"Immunity Boost, Skin Health, Anti-Aging",200-500 AED,225.31,Highly Interested
+41,Male,Bachelor’s,<2000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Weight Management, Fitness Performance, Immunity Boost, Anti-Aging, Energy Levels",500-1000 AED,842.5,Neutral
+33,Female,High School,10000-20000 AED,Ajman,Never,Vegetarian,Yes,Very Interested,"Skin Health, Weight Management, Fitness Performance, Immunity Boost",500-1000 AED,853.88,Neutral
+19,Prefer not to say,Bachelor’s,2000-5000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Immunity Boost, Weight Management, Mental Wellness, Anti-Aging",500-1000 AED,680.0,Highly Interested
+45,Female,High School,>20000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Anti-Aging, Fitness Performance",200-500 AED,223.02,Neutral
+49,Male,High School,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Anti-Aging, Weight Management, Immunity Boost, Skin Health, Mental Wellness",500-1000 AED,713.15,Neutral
+44,Female,Bachelor’s,<2000 AED,Dubai,3-4 times/week,Vegan,No,Somewhat Interested,"Immunity Boost, Mental Wellness, Anti-Aging, Weight Management",500-1000 AED,721.17,Interested
+37,Female,Bachelor’s,10000-20000 AED,Ajman,1-2 times/week,Keto/Low Carb,Yes,Very Interested,"Immunity Boost, Weight Management, Skin Health, Energy Levels",1000-2000 AED,1668.67,Interested
+41,Female,Master’s,2000-5000 AED,Sharjah,3-4 times/week,Vegetarian,Yes,Very Interested,"Immunity Boost, Fitness Performance, Weight Management, Anti-Aging, Skin Health",1000-2000 AED,1315.42,Highly Interested
+29,Female,Doctorate,>20000 AED,Ras Al Khaimah,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Mental Wellness, Fitness Performance, Anti-Aging, Energy Levels",500-1000 AED,841.3,Highly Interested
+52,Male,Bachelor’s,>20000 AED,Abu Dhabi,Never,Non-Vegetarian,Yes,Very Interested,"Anti-Aging, Skin Health",<200 AED,448.6,Interested
+50,Male,Bachelor’s,5000-10000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Energy Levels, Fitness Performance, Weight Management, Anti-Aging",200-500 AED,271.25,Neutral
+50,Female,High School,<2000 AED,Dubai,3-4 times/week,Vegetarian,Yes,Very Interested,"Anti-Aging, Mental Wellness, Weight Management, Immunity Boost",200-500 AED,493.68,Interested
+60,Male,Master’s,5000-10000 AED,Sharjah,1-2 times/week,Vegetarian,No,Somewhat Interested,"Anti-Aging, Weight Management",200-500 AED,315.91,Interested
+54,Male,Bachelor’s,<2000 AED,Abu Dhabi,3-4 times/week,Pescatarian,Yes,Neutral,"Skin Health, Anti-Aging, Weight Management, Mental Wellness, Energy Levels",500-1000 AED,633.63,Highly Interested
+29,Non-binary,Doctorate,<2000 AED,Other,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Anti-Aging, Fitness Performance, Energy Levels, Weight Management",200-500 AED,326.45,Highly Interested
+20,Female,Master’s,10000-20000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Mental Wellness, Skin Health",200-500 AED,228.32,Interested
+18,Female,Bachelor’s,2000-5000 AED,Abu Dhabi,1-2 times/week,Keto/Low Carb,Yes,Neutral,"Mental Wellness, Immunity Boost, Energy Levels, Anti-Aging, Skin Health",<200 AED,150.28,Highly Interested
+50,Female,High School,2000-5000 AED,Sharjah,1-2 times/week,Vegan,Yes,Somewhat Interested,"Anti-Aging, Immunity Boost, Weight Management, Fitness Performance, Mental Wellness",<200 AED,265.77,Interested
+57,Female,Master’s,>20000 AED,Abu Dhabi,3-4 times/week,Vegetarian,No,Very Interested,"Weight Management, Anti-Aging, Immunity Boost",200-500 AED,428.73,Highly Interested
+27,Female,Master’s,2000-5000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Skin Health, Weight Management, Mental Wellness, Anti-Aging",200-500 AED,470.09,Neutral
+60,Female,High School,2000-5000 AED,Sharjah,3-4 times/week,Non-Vegetarian,No,Neutral,"Weight Management, Immunity Boost, Energy Levels, Skin Health, Fitness Performance",500-1000 AED,832.41,Highly Interested
+61,Male,Bachelor’s,>20000 AED,Dubai,5+ times/week,Vegan,No,Very Interested,"Immunity Boost, Mental Wellness",500-1000 AED,552.61,Interested
+46,Male,Master’s,<2000 AED,Sharjah,3-4 times/week,Vegan,No,Very Interested,"Energy Levels, Skin Health, Fitness Performance",200-500 AED,401.61,Interested
+30,Female,High School,10000-20000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Fitness Performance, Mental Wellness, Skin Health, Energy Levels, Immunity Boost",500-1000 AED,817.71,Highly Interested
+29,Female,Doctorate,>20000 AED,Ajman,1-2 times/week,Non-Vegetarian,Yes,Neutral,"Mental Wellness, Energy Levels",200-500 AED,441.73,Highly Interested
+48,Male,Bachelor’s,>20000 AED,Ajman,3-4 times/week,Pescatarian,Yes,Very Interested,"Immunity Boost, Weight Management, Energy Levels, Fitness Performance, Mental Wellness",200-500 AED,447.57,Highly Interested
+63,Male,High School,5000-10000 AED,Dubai,3-4 times/week,Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Weight Management, Mental Wellness, Energy Levels, Skin Health",<200 AED,447.28,Neutral
+19,Male,Master’s,2000-5000 AED,Dubai,1-2 times/week,Vegetarian,Yes,Very Interested,"Skin Health, Fitness Performance, Weight Management, Energy Levels, Immunity Boost",500-1000 AED,707.07,Highly Interested
+52,Male,Bachelor’s,2000-5000 AED,Other,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Skin Health, Mental Wellness, Fitness Performance, Anti-Aging, Weight Management",500-1000 AED,848.93,Interested
+40,Female,Bachelor’s,10000-20000 AED,Abu Dhabi,1-2 times/week,Vegetarian,Yes,Very Interested,"Skin Health, Energy Levels, Mental Wellness",200-500 AED,280.48,Not Interested
+34,Male,High School,10000-20000 AED,Ras Al Khaimah,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Weight Management, Mental Wellness, Skin Health",200-500 AED,499.8,Neutral
+43,Female,High School,5000-10000 AED,Dubai,5+ times/week,Pescatarian,Yes,Neutral,"Anti-Aging, Energy Levels, Immunity Boost, Weight Management, Skin Health",1000-2000 AED,1175.33,Highly Interested
+25,Female,Bachelor’s,2000-5000 AED,Abu Dhabi,5+ times/week,Keto/Low Carb,Yes,Somewhat Interested,"Immunity Boost, Energy Levels, Weight Management, Skin Health",200-500 AED,203.03,Neutral
+46,Female,Bachelor’s,<2000 AED,Ajman,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Weight Management",200-500 AED,244.64,Highly Interested
+43,Female,Bachelor’s,<2000 AED,Ras Al Khaimah,3-4 times/week,Non-Vegetarian,No,Very Interested,"Anti-Aging, Weight Management",1000-2000 AED,1775.87,Interested
+27,Male,Master’s,10000-20000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Very Interested,"Fitness Performance, Energy Levels, Anti-Aging, Mental Wellness",1000-2000 AED,1446.78,Neutral
+43,Female,Bachelor’s,5000-10000 AED,Sharjah,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Energy Levels, Anti-Aging, Fitness Performance, Weight Management, Skin Health",500-1000 AED,723.75,Interested
+51,Male,High School,>20000 AED,Abu Dhabi,1-2 times/week,Vegetarian,No,Very Interested,"Weight Management, Immunity Boost",500-1000 AED,977.51,Interested
+58,Male,Bachelor’s,10000-20000 AED,Dubai,3-4 times/week,Keto/Low Carb,No,Very Interested,"Mental Wellness, Fitness Performance, Skin Health, Anti-Aging, Immunity Boost",200-500 AED,475.89,Highly Interested
+24,Prefer not to say,Doctorate,2000-5000 AED,Sharjah,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Fitness Performance, Energy Levels, Anti-Aging, Skin Health, Mental Wellness",<200 AED,224.48,Highly Interested
+21,Male,Master’s,5000-10000 AED,Sharjah,5+ times/week,Non-Vegetarian,No,Somewhat Interested,"Anti-Aging, Weight Management, Fitness Performance, Immunity Boost, Mental Wellness",500-1000 AED,604.53,Interested
+62,Male,Bachelor’s,5000-10000 AED,Ras Al Khaimah,3-4 times/week,Vegetarian,Yes,Neutral,"Fitness Performance, Skin Health, Weight Management, Anti-Aging",<200 AED,439.39,Highly Interested
+28,Female,Bachelor’s,5000-10000 AED,Abu Dhabi,3-4 times/week,Pescatarian,Yes,Not Interested,"Weight Management, Energy Levels, Fitness Performance, Immunity Boost",500-1000 AED,953.01,Not Interested
+46,Male,Bachelor’s,10000-20000 AED,Dubai,3-4 times/week,Vegan,Yes,Somewhat Interested,"Anti-Aging, Skin Health, Immunity Boost, Fitness Performance",>2000 AED,2541.6,Neutral
+53,Female,Master’s,10000-20000 AED,Dubai,3-4 times/week,Keto/Low Carb,Yes,Very Interested,"Weight Management, Mental Wellness, Fitness Performance",>2000 AED,2629.42,Neutral
+42,Male,Master’s,10000-20000 AED,Abu Dhabi,3-4 times/week,Vegan,Yes,Very Interested,"Mental Wellness, Fitness Performance, Energy Levels, Immunity Boost",200-500 AED,277.07,Interested
+38,Non-binary,Master’s,2000-5000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Neutral,"Fitness Performance, Weight Management, Skin Health, Anti-Aging, Mental Wellness",500-1000 AED,900.4,Interested
+53,Female,Master’s,<2000 AED,Sharjah,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Anti-Aging, Energy Levels, Weight Management, Skin Health",500-1000 AED,816.06,Neutral
+27,Female,Master’s,10000-20000 AED,Dubai,5+ times/week,Non-Vegetarian,No,Not Interested,"Mental Wellness, Fitness Performance, Weight Management, Immunity Boost",1000-2000 AED,1503.51,Neutral
+54,Non-binary,High School,<2000 AED,Ras Al Khaimah,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Anti-Aging, Weight Management, Immunity Boost, Mental Wellness",200-500 AED,218.03,Interested
+26,Male,Bachelor’s,2000-5000 AED,Other,1-2 times/week,Non-Vegetarian,Yes,Not Interested,"Fitness Performance, Skin Health, Immunity Boost, Energy Levels, Mental Wellness",<200 AED,466.37,Highly Interested
+41,Prefer not to say,High School,<2000 AED,Abu Dhabi,3-4 times/week,Vegetarian,Yes,Neutral,"Weight Management, Anti-Aging, Mental Wellness",200-500 AED,384.64,Highly Interested
+52,Male,High School,5000-10000 AED,Ras Al Khaimah,5+ times/week,Vegetarian,Yes,Neutral,"Mental Wellness, Energy Levels, Skin Health, Anti-Aging",200-500 AED,257.81,Interested
+52,Female,Master’s,2000-5000 AED,Sharjah,Never,Non-Vegetarian,No,Very Interested,"Anti-Aging, Energy Levels, Fitness Performance, Mental Wellness, Weight Management",200-500 AED,381.92,Interested
+53,Male,Bachelor’s,5000-10000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Anti-Aging, Energy Levels, Skin Health, Immunity Boost",1000-2000 AED,1677.46,Neutral
+35,Female,Bachelor’s,>20000 AED,Dubai,5+ times/week,Vegan,Yes,Very Interested,"Skin Health, Anti-Aging, Weight Management, Energy Levels",500-1000 AED,762.89,Highly Interested
+56,Male,High School,<2000 AED,Abu Dhabi,3-4 times/week,Vegetarian,No,Very Interested,"Fitness Performance, Mental Wellness",200-500 AED,415.43,Highly Interested
+49,Female,Bachelor’s,<2000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,No,Very Interested,"Energy Levels, Mental Wellness, Immunity Boost",500-1000 AED,790.73,Highly Interested
+41,Female,High School,2000-5000 AED,Ajman,3-4 times/week,Vegetarian,Yes,Somewhat Interested,"Anti-Aging, Mental Wellness, Fitness Performance, Energy Levels",<200 AED,479.11,Highly Interested
+40,Prefer not to say,High School,10000-20000 AED,Abu Dhabi,3-4 times/week,Vegetarian,No,Very Interested,"Mental Wellness, Anti-Aging, Fitness Performance",1000-2000 AED,1053.7,Highly Interested
+49,Male,Bachelor’s,2000-5000 AED,Ajman,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Weight Management, Mental Wellness, Skin Health, Immunity Boost",>2000 AED,2106.25,Interested
+54,Female,Bachelor’s,2000-5000 AED,Sharjah,1-2 times/week,Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Weight Management, Mental Wellness",>2000 AED,2173.67,Interested
+29,Female,Bachelor’s,<2000 AED,Dubai,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Mental Wellness, Fitness Performance, Immunity Boost, Skin Health",1000-2000 AED,1690.17,Interested
+30,Male,High School,10000-20000 AED,Other,3-4 times/week,Non-Vegetarian,No,Not Interested,"Mental Wellness, Skin Health, Energy Levels",200-500 AED,393.68,Highly Interested
+40,Male,High School,5000-10000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Weight Management, Immunity Boost, Skin Health, Energy Levels",<200 AED,456.82,Highly Interested
+42,Male,Bachelor’s,10000-20000 AED,Dubai,3-4 times/week,Vegetarian,Yes,Very Interested,"Energy Levels, Mental Wellness",500-1000 AED,866.44,Interested
+52,Female,Bachelor’s,>20000 AED,Sharjah,5+ times/week,Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Weight Management, Energy Levels, Skin Health, Mental Wellness",>2000 AED,2508.36,Neutral
+58,Female,Master’s,2000-5000 AED,Dubai,5+ times/week,Vegetarian,Yes,Neutral,"Fitness Performance, Anti-Aging",200-500 AED,497.55,Highly Interested
+47,Female,Bachelor’s,10000-20000 AED,Abu Dhabi,3-4 times/week,Vegetarian,Yes,Very Interested,"Energy Levels, Mental Wellness, Anti-Aging, Immunity Boost",<200 AED,206.44,Neutral
+34,Male,Bachelor’s,<2000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,No,Very Interested,"Skin Health, Energy Levels, Fitness Performance, Anti-Aging",1000-2000 AED,1833.19,Highly Interested
+37,Male,Master’s,10000-20000 AED,Abu Dhabi,3-4 times/week,Non-Vegetarian,Yes,Somewhat Interested,"Fitness Performance, Mental Wellness, Immunity Boost, Skin Health",<200 AED,270.72,Neutral
+42,Male,High School,5000-10000 AED,Other,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Weight Management",500-1000 AED,824.37,Neutral
+39,Prefer not to say,Bachelor’s,10000-20000 AED,Abu Dhabi,1-2 times/week,Non-Vegetarian,No,Somewhat Interested,"Anti-Aging, Energy Levels",500-1000 AED,863.63,Highly Interested
+30,Male,Master’s,<2000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Neutral,"Energy Levels, Anti-Aging, Fitness Performance, Weight Management, Mental Wellness",200-500 AED,390.13,Interested
+36,Male,Bachelor’s,2000-5000 AED,Abu Dhabi,3-4 times/week,Pescatarian,Yes,Not Interested,"Mental Wellness, Weight Management, Skin Health",<200 AED,156.2,Highly Interested
+53,Male,Bachelor’s,2000-5000 AED,Ras Al Khaimah,3-4 times/week,Vegan,Yes,Very Interested,"Skin Health, Anti-Aging, Weight Management",1000-2000 AED,1442.95,Neutral
+29,Female,Doctorate,2000-5000 AED,Dubai,3-4 times/week,Vegan,Yes,Very Interested,"Energy Levels, Weight Management, Immunity Boost",500-1000 AED,780.72,Interested
+58,Prefer not to say,Master’s,2000-5000 AED,Dubai,Never,Non-Vegetarian,Yes,Very Interested,"Anti-Aging, Fitness Performance, Energy Levels, Skin Health, Weight Management",>2000 AED,2849.04,Interested
+36,Female,Bachelor’s,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Mental Wellness, Anti-Aging, Fitness Performance, Weight Management",200-500 AED,333.09,Interested
+29,Female,Bachelor’s,<2000 AED,Dubai,5+ times/week,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Weight Management, Mental Wellness, Immunity Boost, Skin Health",<200 AED,467.5,Neutral
+26,Female,Bachelor’s,5000-10000 AED,Ajman,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Skin Health, Anti-Aging, Mental Wellness, Energy Levels",1000-2000 AED,1440.37,Highly Interested
+24,Male,Bachelor’s,10000-20000 AED,Sharjah,5+ times/week,Non-Vegetarian,No,Not Interested,"Anti-Aging, Skin Health, Energy Levels",500-1000 AED,774.39,Interested
+45,Prefer not to say,Bachelor’s,5000-10000 AED,Dubai,5+ times/week,Non-Vegetarian,No,Neutral,"Fitness Performance, Immunity Boost, Weight Management, Mental Wellness, Energy Levels",200-500 AED,438.89,Highly Interested
+31,Female,Bachelor’s,<2000 AED,Sharjah,5+ times/week,Keto/Low Carb,No,Very Interested,"Weight Management, Immunity Boost, Anti-Aging, Skin Health",1000-2000 AED,1583.07,Highly Interested
+48,Female,Bachelor’s,5000-10000 AED,Dubai,5+ times/week,Non-Vegetarian,No,Very Interested,"Energy Levels, Fitness Performance, Immunity Boost",200-500 AED,488.07,Interested
+36,Female,Bachelor’s,<2000 AED,Other,5+ times/week,Vegan,Yes,Very Interested,"Weight Management, Immunity Boost, Skin Health",200-500 AED,398.1,Highly Interested
+64,Female,Master’s,>20000 AED,Other,3-4 times/week,Non-Vegetarian,No,Very Interested,"Fitness Performance, Anti-Aging, Immunity Boost, Skin Health",<200 AED,309.08,Highly Interested
+33,Female,Master’s,<2000 AED,Dubai,Never,Non-Vegetarian,Yes,Somewhat Interested,"Immunity Boost, Skin Health, Weight Management, Mental Wellness, Energy Levels",500-1000 AED,511.8,Neutral
+22,Prefer not to say,High School,10000-20000 AED,Ajman,3-4 times/week,Vegetarian,No,Somewhat Interested,"Skin Health, Fitness Performance, Mental Wellness",500-1000 AED,706.87,Highly Interested
+52,Non-binary,Bachelor’s,>20000 AED,Sharjah,3-4 times/week,Vegetarian,Yes,Neutral,"Mental Wellness, Skin Health, Fitness Performance, Weight Management, Energy Levels",500-1000 AED,649.62,Interested
+29,Female,Bachelor’s,10000-20000 AED,Dubai,1-2 times/week,Pescatarian,Yes,Somewhat Interested,"Skin Health, Energy Levels, Immunity Boost, Anti-Aging",1000-2000 AED,1748.11,Highly Interested
+42,Female,Bachelor’s,5000-10000 AED,Dubai,1-2 times/week,Non-Vegetarian,No,Somewhat Interested,"Energy Levels, Mental Wellness, Weight Management, Immunity Boost, Anti-Aging",>2000 AED,2208.28,Highly Interested
+38,Male,Master’s,10000-20000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,No,Somewhat Interested,"Skin Health, Energy Levels",200-500 AED,261.57,Highly Interested
+53,Female,High School,>20000 AED,Sharjah,5+ times/week,Pescatarian,Yes,Very Interested,"Fitness Performance, Anti-Aging, Weight Management, Energy Levels, Immunity Boost",<200 AED,175.81,Interested
+40,Male,Bachelor’s,5000-10000 AED,Other,5+ times/week,Non-Vegetarian,No,Somewhat Interested,"Weight Management, Anti-Aging, Immunity Boost",<200 AED,150.25,Interested
+33,Female,High School,5000-10000 AED,Sharjah,3-4 times/week,Keto/Low Carb,Yes,Somewhat Interested,"Weight Management, Immunity Boost, Skin Health, Anti-Aging",200-500 AED,293.3,Highly Interested
+56,Prefer not to say,High School,5000-10000 AED,Ajman,Never,Non-Vegetarian,Yes,Very Interested,"Immunity Boost, Energy Levels",500-1000 AED,942.96,Highly Interested
+62,Female,Bachelor’s,5000-10000 AED,Abu Dhabi,Never,Non-Vegetarian,Yes,Very Interested,"Fitness Performance, Energy Levels, Anti-Aging, Immunity Boost",1000-2000 AED,1774.93,Neutral
+59,Female,Bachelor’s,5000-10000 AED,Ajman,1-2 times/week,Non-Vegetarian,Yes,Very Interested,"Energy Levels, Anti-Aging, Immunity Boost, Mental Wellness, Weight Management",1000-2000 AED,1735.25,Highly Interested
+56,Male,Doctorate,5000-10000 AED,Sharjah,Never,Vegetarian,No,Neutral,"Mental Wellness, Immunity Boost, Energy Levels",200-500 AED,439.2,Neutral
+31,Male,Bachelor’s,2000-5000 AED,Dubai,Never,Vegetarian,No,Very Interested,"Weight Management, Immunity Boost, Energy Levels",200-500 AED,280.83,Highly Interested
+48,Female,Bachelor’s,<2000 AED,Abu Dhabi,5+ times/week,Non-Vegetarian,No,Very Interested,"Anti-Aging, Fitness Performance, Mental Wellness",500-1000 AED,943.72,Interested
+22,Male,Bachelor’s,<2000 AED,Ajman,3-4 times/week,Pescatarian,Yes,Very Interested,"Immunity Boost, Energy Levels",<200 AED,154.92,Highly Interested
+52,Male,High School,2000-5000 AED,Dubai,1-2 times/week,Vegan,No,Somewhat Interested,"Immunity Boost, Weight Management",500-1000 AED,668.17,Neutral
+40,Male,Doctorate,<2000 AED,Ajman,1-2 times/week,Vegetarian,Yes,Very Interested,"Immunity Boost, Anti-Aging, Fitness Performance",>2000 AED,2586.75,Interested
+46,Female,Bachelor’s,5000-10000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Not Interested,"Fitness Performance, Weight Management, Skin Health, Energy Levels, Immunity Boost",500-1000 AED,551.45,Interested
+60,Female,Master’s,2000-5000 AED,Abu Dhabi,Never,Vegetarian,Yes,Neutral,"Energy Levels, Weight Management, Fitness Performance, Mental Wellness",1000-2000 AED,1730.13,Highly Interested
+28,Male,High School,10000-20000 AED,Ajman,5+ times/week,Vegetarian,Yes,Somewhat Interested,"Energy Levels, Fitness Performance, Mental Wellness",500-1000 AED,693.62,Interested
+35,Female,Bachelor’s,<2000 AED,Dubai,3-4 times/week,Non-Vegetarian,No,Somewhat Interested,"Energy Levels, Anti-Aging, Immunity Boost, Weight Management",200-500 AED,435.32,Interested
+64,Female,Bachelor’s,2000-5000 AED,Dubai,3-4 times/week,Non-Vegetarian,Yes,Very Interested,"Anti-Aging, Skin Health, Energy Levels",500-1000 AED,746.45,Highly Interested
+29,Female,Master’s,10000-20000 AED,Abu Dhabi,1-2 times/week,Vegetarian,Yes,Very Interested,"Weight Management, Energy Levels, Immunity Boost",200-500 AED,254.26,Highly Interested
