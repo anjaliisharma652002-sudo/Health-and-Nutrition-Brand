@@ -69,6 +69,12 @@ def load_data():
 
 df = load_data()
 
+for col in df.columns:
+    try:
+        df[col] = pd.to_numeric(df[col], errors="coerce")
+    except:
+        pass
+
 uploaded = st.sidebar.file_uploader("📤 Upload Your CSV (Optional)", type=["csv"])
 if uploaded:
     df = pd.read_csv(uploaded)
